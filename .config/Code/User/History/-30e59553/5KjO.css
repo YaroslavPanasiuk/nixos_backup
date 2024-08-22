@@ -1,0 +1,57 @@
+@import '/home/yaros/.cache/wal/gtk-theme.css';
+* {
+    -gtk-secondary-caret-color: #c50ed2; 
+}
+
+.gtkstyle-fallback:selected {
+    color: #fefefe;
+    background-color: #c50ed2; }
+
+.rubberband,
+rubberband,
+flowbox rubberband,
+.content-view rubberband,
+columnview.view > rubberband,
+treeview.view > rubberband {
+  border: 1px solid #980ba2;
+  background-color: rgba(152, 11, 162, 0.2); }
+
+
+label selection {
+  background-color: #c50ed2;}
+
+
+*:selected {
+  background: #c50ed2;
+  color: #fefefe; }
+
+
+@keyframes needs_attention {
+  from {
+    background-image: radial-gradient(farthest-side, #e63bf2 0%, rgba(230, 59, 242, 0) 0%); }
+  to {
+    background-image: radial-gradient(farthest-side, #e63bf2 95%, rgba(230, 59, 242, 0)); } }
+
+button.flat:hover {
+    color: #fefefe;
+    background-color: #c50ed2;
+    }
+
+button:hover {
+    color: #fefefe;
+    background-color: #c50ed2;}
+
+button:checked {
+    color: #fefefe;
+    background-color: #af0cba;}
+
+button:backdrop:checked {
+    color: rgba(254, 254, 254, 0.7);
+    outline-color: rgba(195, 199, 209, 0.3);
+    background-color: #c50ed2;}
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+@import '/home/yaros/.cache/wal/gtk-theme.css';
+* {
+  padding: 0;
+  outline-color: rgba(195, 199, 209, 0.3);
+  outline-style: dashed;
+  outline-offset: -3px;
+  outline-width: 0px;
+  -gtk-secondary-caret-color: @color1; }

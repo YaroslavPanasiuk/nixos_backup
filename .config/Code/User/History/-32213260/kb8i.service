@@ -1,0 +1,7 @@
+[Unit]
+Description=Battery Level Checker
+
+[Service]
+Restart=always
+RestartSec=300
+ExecStart=/home/yaros/Documents/battery_listener.sh

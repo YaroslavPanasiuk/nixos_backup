@@ -1,0 +1,12 @@
+[virt-viewer]
+share-clipboard=true
+ask-quit=false
+#win10
+[b04b54ab-43d2-44a7-8a96-cb748f329473]
+monitor-mapping=1:1;
+#win10
+[55f00f3f-6d29-4760-8097-6cf32f44ed78]
+monitor-mapping=1:1;
+#TestWin-10
+[f69fdcca-c251-4c99-a838-dba75ed1a9c8]
+monitor-mapping=1:1;

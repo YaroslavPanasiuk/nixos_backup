@@ -1,0 +1,8 @@
+2024-08-21 21:52:12.063 [info] Started local extension host with pid 7535.
+2024-08-21 21:52:15.915 [info] [perf] Render performance baseline is 51ms
+2024-08-21 21:58:00.995 [error] [text file model] handleSaveError(2) - exit - resulted in a save error: Error: Unable to write file '/etc/nixos/configuration.nix' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/nixos/configuration.nix') file:///etc/nixos/configuration.nix
+2024-08-21 21:58:43.079 [error] [text file model] handleSaveError(4) - exit - resulted in a save error: Error: Unable to write file '/etc/nixos/configuration.nix' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/nixos/configuration.nix') file:///etc/nixos/configuration.nix
+2024-08-21 22:00:48.544 [error] [text file model] handleSaveError(9) - exit - resulted in a save error: Error: Unable to write file '/etc/nixos/configuration.nix' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/nixos/configuration.nix') file:///etc/nixos/configuration.nix
+2024-08-21 22:02:41.039 [error] [text file model] handleSaveError(13) - exit - resulted in a save error: Error: Unable to write file '/etc/nixos/configuration.nix' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/nixos/configuration.nix') file:///etc/nixos/configuration.nix
+2024-08-21 22:27:17.928 [warning] Failed to fetch chat participant registry Failed to fetch
+2024-08-21 23:08:25.015 [error] [text file model] handleSaveError(21) - exit - resulted in a save error: Error: Unable to write file '/etc/nixos/configuration.nix' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/nixos/configuration.nix') file:///etc/nixos/configuration.nix

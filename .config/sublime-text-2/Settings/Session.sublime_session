@@ -1,0 +1,1100 @@
+{
+	"folder_history":
+	[
+		"/etc/NetworkManager/system-connections",
+		"/home/yaros/.config/waybar/style"
+	],
+	"last_window_id": 4,
+	"settings":
+	{
+		"new_window_height": 1027.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"bac",
+						"background"
+					],
+					[
+						"border",
+						"border-width"
+					],
+					[
+						"bo",
+						"border-radius"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"colo",
+						"color1"
+					],
+					[
+						"rg",
+						"rgba()"
+					],
+					[
+						"tra",
+						"transition-type"
+					],
+					[
+						"bri",
+						"brightness"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/yaros/.config/waybar/restart_thunar.sh",
+				"/home/yaros/.config/wal/templates/dunstrc",
+				"/home/yaros/.config/wofi/style.css",
+				"/home/yaros/.cache/wal/colors-waybar.css",
+				"/home/yaros/.config/wal/templates/colors-hyprland.conf",
+				"/home/yaros/.config/waybar/config.jsonc",
+				"/etc/nixos/configuration.nix",
+				"/home/yaros/.config/gtk-3.0/gtk.css",
+				"/home/yaros/.config/gtk-3.0/settings.ini",
+				"/home/yaros/.cache/wal/colors.css",
+				"/home/yaros/.cache/wal/colors.scss",
+				"/home/yaros/.config/waybar/update_telegram.sh",
+				"/home/yaros/.config/gtk-4.0/settings.ini",
+				"/nix/store/0v7kh69cr1qy7dg2pimp28qfhd4116ig-home-manager-files/.config/gtk-4.0/gtk.css",
+				"/home/yaros/.config/gtk-4.0/gtk.css",
+				"/home/yaros/.config/hypr/gtk.sh",
+				"/home/yaros/.config/hypr/brightnessdown.sh",
+				"/home/yaros/.config/hypr/temp.sh",
+				"/home/yaros/.config/waybar/wallpaper_change.sh",
+				"/home/yaros/.config/waybar/wallpaper_frieren.sh",
+				"/home/yaros/.config/wal/templates/colors-rofi.rasi",
+				"/home/yaros/.config/wofi/config.rasi",
+				"/home/yaros/.cache/wal/colors-rofi.rasi",
+				"/home/yaros/.config/hypr/gtl.sh",
+				"/home/yaros/.cache/wal/colors-rofi-dark.rasi",
+				"/home/yaros/.config/wal/templates/colors-rofi-dark.rasi",
+				"/home/yaros/.cache/walogram/wal.tdesktop-theme",
+				"/usr/local/bin/walogram",
+				"/home/yaros/.config/mako/config",
+				"/usr/bin/wal-telegram",
+				"/home/yaros/Documents/temp_shell.sh",
+				"/mako/config",
+				"/home/yaros/.config/wofi/config",
+				"/home/yaros/.config/wofi/iconic.rasi",
+				"/home/yaros/.config/wofi/colors.rasi",
+				"/home/yaros/.config/wofi/themes/tokypnight",
+				"/home/yaros/.config/wofi/themes/tokionight.rasi",
+				"/home/yaros/.config/wofi/config/rasi",
+				"/home/yaros/.cache/wal/colors-hyprland.conf",
+				"/home/yaros/.config/wal/templates/colors-waybar.css",
+				"/home/yaros/.cache/wallust/sequences",
+				"/home/yaros/.cache/wal/colors",
+				"/home/yaros/.cache/wal/colors-kitty.conf",
+				"/home/yaros/.cache/wal/colors-hyprland",
+				"/home/yaros/Documents/temp_shell.nix",
+				"/home/yaros/.config/hypr/colors.conf",
+				"/home/yaros/.cache/wal/color-hyprland.conf",
+				"/home/yaros/.cache/wal/colors-hyprland.cong",
+				"/home/yaros/.bashrc",
+				"/home/yaros/.config/hypr/hyprland,onf"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"Materia_dark_theme.css",
+					"gtk-theme.css",
+					"Materia_dark_theme.css",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"wal/colors.s",
+					"transfor",
+					"border-spac",
+					"border-s",
+					"works",
+					"#272727",
+					"@background",
+					"blur",
+					"@background;",
+					"background",
+					"#121212",
+					"@background",
+					"#121212",
+					"strip",
+					"#1e1e1e",
+					"base",
+					"@color1",
+					"@background",
+					"#8ab4f8",
+					"#121212",
+					"#262c36",
+					"#232831",
+					"#434c5e",
+					"#262c36",
+					"#232831",
+					"#2e3440",
+					"#8e95a4",
+					"#404859",
+					"#8fbcbb",
+					"#3b4252",
+					"#434c5e",
+					"#d8dee9",
+					"#8ab4f8",
+					"8ab4f8",
+					"121212",
+					"theme_bg_color",
+					"tmtp",
+					"walmode",
+					"conv",
+					"zip file",
+					"not an ",
+					"\n   \n\n[urgency_normal]\n\n    background = \"#202632\"\n    foreground = \"#ffffff\"\n    timeout = 5",
+					"element-text",
+					"selected",
+					"@rad",
+					"background-color",
+					"fg",
+					"bg",
+					"rof",
+					"background:",
+					"color",
+					"color0",
+					"col",
+					"F3",
+					"wallp",
+					"cpu",
+					"mpd",
+					"usage",
+					"temperature",
+					"workspaces",
+					"waybar",
+					"browser",
+					"magic",
+					"togglespecialworkspace",
+					"movetoworkspace",
+					"drun",
+					"tresh"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"@color1",
+					"@background",
+					"@base",
+					"rgb",
+					"@background",
+					"@color13",
+					"@color1",
+					"@background",
+					"@color2",
+					"@color1",
+					"@background",
+					"@color15",
+					"@color3",
+					"@color1",
+					"@cursor",
+					"@background",
+					"@color1",
+					"@color2",
+					"@background",
+					"@cursor",
+					"@color1"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.unsaved_changes":
+			{
+				"height": 112.0
+			},
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1904.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fo",
+						"font-size"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"bac",
+						"background"
+					],
+					[
+						"my",
+						"my_array_length"
+					],
+					[
+						"my_",
+						"my_array"
+					],
+					[
+						"border",
+						"border-width"
+					],
+					[
+						"bo",
+						"border-radius"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"colo",
+						"color1"
+					],
+					[
+						"rg",
+						"rgba()"
+					],
+					[
+						"tra",
+						"transition-type"
+					],
+					[
+						"bri",
+						"brightness"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/yaros/.config/hypr/hyprland.conf",
+					"settings":
+					{
+						"buffer_size": 8496,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/yaros/.config/waybar/config.jsonc",
+					"settings":
+					{
+						"buffer_size": 5911,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/yaros/.config/waybar/style.css",
+					"settings":
+					{
+						"buffer_size": 3564,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/yaros/.config/wal/templates/dunstrc",
+					"settings":
+					{
+						"buffer_size": 1707,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/yaros/Documents/brightness.sh",
+					"settings":
+					{
+						"buffer_size": 571,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/yaros/Documents/volume.sh",
+					"settings":
+					{
+						"buffer_size": 1382,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/yaros/Documents/temp_shell.sh",
+					"settings":
+					{
+						"buffer_size": 114,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/yaros/.config/waybar/redshift.sh",
+					"settings":
+					{
+						"buffer_size": 86,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/yaros/Documents/rebuild.sh",
+					"settings":
+					{
+						"buffer_size": 369,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/yaros/.config/waybar/post_setting.sh",
+					"settings":
+					{
+						"buffer_size": 529,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "{ config, pkgs, ... }:\n\nlet\n     gtk-css = \"@import '/home/yaros/.config/gtk-4.0/Materia_dark_theme.css';\";\nin\n\n{\n  # Home Manager needs a bit of information about you and the paths it should\n  # manage.\n  home.username = \"yaros\";\n  home.homeDirectory = \"/home/yaros\";\n\n  # This value determines the Home Manager release that your configuration is\n  # compatible with. This helps avoid breakage when a new Home Manager release\n  # introduces backwards incompatible changes.\n  #\n  # You should not change this value, even if you update Home Manager. If you do\n  # want to update the value, then make sure to first check the Home Manager\n  # release notes.\n  home.stateVersion = \"23.11\"; # Please read the comment before changing.\n\n  # The home.packages option allows you to install Nix packages into your\n  # environment.\n  home.packages = [\n    # # Adds the 'hello' command to your environment. It prints a friendly\n    # # \"Hello, world!\" when run.\n    # pkgs.hello\n\n    # # It is sometimes useful to fine-tune packages, for example, by applying\n    # # overrides. You can do that directly here, just don't forget the\n    # # parentheses. Maybe you want to install Nerd Fonts with a limited number of\n    # # fonts?\n    # (pkgs.nerdfonts.override { fonts = [ \"FantasqueSansMono\" ]; })\n\n    # # You can also create simple shell scripts directly inside your\n    # # configuration. For example, this adds a command 'my-hello' to your\n    # # environment:\n    # (pkgs.writeShellScriptBin \"my-hello\" ''\n    #   echo \"Hello, ${config.home.username}!\"\n    # '')\n  ];\n\n  # Home Manager is pretty good at managing dotfiles. The primary way to manage\n  # plain files is through 'home.file'.\n  home.file = {\n    # # Building this configuration will create a copy of 'dotfiles/screenrc' in\n    # # the Nix store. Activating the configuration will then make '~/.screenrc' a\n    # # symlink to the Nix store copy.\n    # \".screenrc\".source = dotfiles/screenrc;\n\n    # # You can also set the file content immediately.\n    # \".gradle/gradle.properties\".text = ''\n    #   org.gradle.console=verbose\n    #   org.gradle.daemon.idletimeout=3600000\n    # '';\n  };\n\n  # Home Manager can also manage your environment variables through\n  # 'home.sessionVariables'. These will be explicitly sourced when using a\n  # shell provided by Home Manager. If you don't want to manage your shell\n  # through Home Manager then you have to manually source 'hm-session-vars.sh'\n  # located at either\n  #\n  #  ~/.nix-profile/etc/profile.d/hm-session-vars.sh\n  #\n  # or\n  #\n  #  ~/.local/state/nix/profiles/profile/etc/profile.d/hm-session-vars.sh\n  #\n  # or\n  #\n  #  /etc/profiles/per-user/yaros/etc/profile.d/hm-session-vars.sh\n  #\n  home.sessionVariables = {\n    # EDITOR = \"emacs\";\n  };\n\n  gtk = {\n	  enable = true;\n    gtk3.extraCss = gtk-css;\n    gtk4.extraCss = gtk-css;\n    theme = {\n      name = \"Materia-dark\";\n      package = pkgs.materia-theme;\n    };\n	  cursorTheme = {\n		  name = \"volantes_cursors\";\n		  package = pkgs.volantes-cursors;\n	  };\n	  iconTheme = {\n		  name = \"reversal\";\n		  package = pkgs.reversal-icon-theme;\n	  };\n  };\n\n  dconf = {\n    enable = true;\n    settings.\"org/gnome/desktop/interface\".color-scheme = \"prefer-dark\";\n  };\n\n  # Let Home Manager install and manage itself.\n  programs.home-manager.enable = true;\n}\n",
+					"file": "/home/yaros/.config/home-manager/home.nix",
+					"file_size": 3301,
+					"file_write_time": 1723835108000000,
+					"settings":
+					{
+						"buffer_size": 3309,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/yaros/.config/gtk-4.0/Materia_dark_theme.css",
+					"settings":
+					{
+						"buffer_size": 117262,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/etc/nixos/configuration.nix",
+				"/home/yaros/.bashrc",
+				"/run/media/yaros/2f732121-2322-4bd7-a1fc-e24af8850b77/home/yaros/.bashrc",
+				"/home/yaros/.config/kitty/kitty.conf",
+				"/home/yaros/.config/waybar/wallpaper_frieren.sh",
+				"/home/yaros/.config/waybar/wallpaper_change.sh",
+				"/home/yaros/Documents/Projects/sddm-sugar-dark/Main.qml",
+				"/home/yaros/.config/wal/templates/colors-sddm.conf",
+				"/home/yaros/Documents/Projects/sddm-sugar-dark/theme.conf",
+				"/home/yaros/Documents/brightness.sh",
+				"/home/yaros/Documents/volume.sh",
+				"/home/yaros/.config/gtk-4.0/Materia_dark_theme.css",
+				"/home/yaros/.config/wal/templates/dunstrc",
+				"/home/yaros/.config/dunst/dunstrc",
+				"/home/yaros/.cache/wal/colors-hyprland.conf",
+				"/home/yaros/.config/wal/templates/colors-hyprland.conf",
+				"/home/yaros/.config/hypr/colors.conf",
+				"/home/yaros/.cache/wal/colors-kitty.conf",
+				"/home/yaros/Documents/Projects/sddm-sugar-dark/README.md",
+				"/home/yaros/.config/gtk-4.0/gtk.css",
+				"/home/yaros/.config/waybar/update_telegram.sh",
+				"/home/yaros/.config/wal/templates/gtk-theme.css",
+				"/home/yaros/.cache/wal/gtk-theme.css",
+				"/home/yaros/.config/waybar/restart_thunar.sh",
+				"/home/yaros/.config/wofi/config.rasi",
+				"/home/yaros/.config/qimgv/theme.conf",
+				"/etc/nixos/sddm-theme.nix",
+				"/etc/NetworkManager/NetworkManager.conf",
+				"/home/yaros/.config/wofi/alttab.sh",
+				"/home/yaros/.config/wofi/style.css",
+				"/home/yaros/.cache/wal/colors-waybar.css",
+				"/home/yaros/.config/waybar/config.jsonc",
+				"/home/yaros/.config/gtk-3.0/gtk.css",
+				"/home/yaros/.config/gtk-3.0/settings.ini",
+				"/home/yaros/.cache/wal/colors.css",
+				"/home/yaros/.cache/wal/colors.scss",
+				"/home/yaros/.config/gtk-4.0/settings.ini",
+				"/nix/store/0v7kh69cr1qy7dg2pimp28qfhd4116ig-home-manager-files/.config/gtk-4.0/gtk.css",
+				"/home/yaros/.config/hypr/gtk.sh",
+				"/home/yaros/.config/hypr/brightnessdown.sh",
+				"/home/yaros/.config/hypr/temp.sh",
+				"/home/yaros/.config/wal/templates/colors-rofi.rasi",
+				"/home/yaros/.cache/wal/colors-rofi.rasi",
+				"/home/yaros/.config/hypr/gtl.sh",
+				"/home/yaros/.cache/wal/colors-rofi-dark.rasi",
+				"/home/yaros/.config/wal/templates/colors-rofi-dark.rasi",
+				"/home/yaros/.cache/walogram/wal.tdesktop-theme",
+				"/usr/local/bin/walogram",
+				"/home/yaros/.config/mako/config",
+				"/usr/bin/wal-telegram",
+				"/home/yaros/Documents/temp_shell.sh",
+				"/mako/config",
+				"/home/yaros/.config/wofi/config",
+				"/home/yaros/.config/wofi/iconic.rasi",
+				"/home/yaros/.config/wofi/colors.rasi",
+				"/home/yaros/.config/wofi/themes/tokypnight",
+				"/home/yaros/.config/wofi/themes/tokionight.rasi",
+				"/home/yaros/.config/wofi/config/rasi",
+				"/home/yaros/.config/wal/templates/colors-waybar.css",
+				"/home/yaros/.cache/wallust/sequences",
+				"/home/yaros/.cache/wal/colors",
+				"/home/yaros/.cache/wal/colors-hyprland",
+				"/home/yaros/Documents/temp_shell.nix",
+				"/home/yaros/.cache/wal/color-hyprland.conf",
+				"/home/yaros/.cache/wal/colors-hyprland.cong",
+				"/home/yaros/.config/hypr/hyprland,onf"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"Materia_dark_theme.css",
+					"gtk-theme.css",
+					"Materia_dark_theme.css",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"255",
+					"fff",
+					"order-wid",
+					"spaci",
+					"parti",
+					"&\n",
+					"msg",
+					"echo",
+					"wal/colors.s",
+					"transfor",
+					"border-spac",
+					"border-s",
+					"works",
+					"#272727",
+					"@background",
+					"blur",
+					"@background;",
+					"background",
+					"#121212",
+					"@background",
+					"#121212",
+					"strip",
+					"#1e1e1e",
+					"base",
+					"@color1",
+					"@background",
+					"#8ab4f8",
+					"#121212",
+					"#262c36",
+					"#232831",
+					"#434c5e",
+					"#262c36",
+					"#232831",
+					"#2e3440",
+					"#8e95a4",
+					"#404859",
+					"#8fbcbb",
+					"#3b4252",
+					"#434c5e",
+					"#d8dee9",
+					"#8ab4f8",
+					"8ab4f8",
+					"121212",
+					"theme_bg_color",
+					"tmtp",
+					"walmode",
+					"conv",
+					"zip file",
+					"not an ",
+					"\n   \n\n[urgency_normal]\n\n    background = \"#202632\"\n    foreground = \"#ffffff\"\n    timeout = 5",
+					"element-text",
+					"selected",
+					"@rad",
+					"background-color",
+					"fg",
+					"bg",
+					"rof",
+					"background:",
+					"color",
+					"color0",
+					"col",
+					"F3",
+					"wallp",
+					"cpu",
+					"mpd",
+					"usage",
+					"temperature",
+					"workspaces",
+					"waybar",
+					"browser",
+					"magic",
+					"togglespecialworkspace",
+					"movetoworkspace",
+					"drun",
+					"tresh"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"@color1",
+					"@background",
+					"@base",
+					"rgb",
+					"@background",
+					"@color13",
+					"@color1",
+					"@background",
+					"@color2",
+					"@color1",
+					"@background",
+					"@color15",
+					"@color3",
+					"@color1",
+					"@cursor",
+					"@background",
+					"@color1",
+					"@color2",
+					"@background",
+					"@cursor",
+					"@color1"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/yaros/.config/hypr/hyprland.conf",
+							"settings":
+							{
+								"buffer_size": 8496,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 204.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/yaros/.config/waybar/config.jsonc",
+							"settings":
+							{
+								"buffer_size": 5911,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4830,
+										4830
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1632.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/yaros/.config/waybar/style.css",
+							"settings":
+							{
+								"buffer_size": 3564,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2774,
+										2774
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/yaros/.config/wal/templates/dunstrc",
+							"settings":
+							{
+								"buffer_size": 1707,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1211,
+										1211
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 255.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/yaros/Documents/brightness.sh",
+							"settings":
+							{
+								"buffer_size": 571,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										314,
+										314
+									]
+								],
+								"settings":
+								{
+									"spell_check": false,
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/yaros/Documents/volume.sh",
+							"settings":
+							{
+								"buffer_size": 1382,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1280,
+										1280
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 102.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/yaros/Documents/temp_shell.sh",
+							"settings":
+							{
+								"buffer_size": 114,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9,
+										9
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/yaros/.config/waybar/redshift.sh",
+							"settings":
+							{
+								"buffer_size": 86,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										86,
+										86
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/yaros/Documents/rebuild.sh",
+							"settings":
+							{
+								"buffer_size": 369,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										369,
+										369
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/yaros/.config/waybar/post_setting.sh",
+							"settings":
+							{
+								"buffer_size": 529,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										130,
+										130
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/home/yaros/.config/home-manager/home.nix",
+							"settings":
+							{
+								"buffer_size": 3309,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3246,
+										3246
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/home/yaros/.config/gtk-4.0/Materia_dark_theme.css",
+							"settings":
+							{
+								"buffer_size": 117262,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										117262
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 70386.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.unsaved_changes":
+			{
+				"height": 112.0
+			},
+			"position": "0,0,0,0,0,965,49,1912,1072,1920,1080",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

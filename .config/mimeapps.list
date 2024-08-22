@@ -1,0 +1,13 @@
+[Default Applications]
+x-scheme-handler/tg=org.telegram.desktop.desktop
+text/plain=code.desktop
+application/x-zerosize=code.desktop
+image/png=qimgv.desktop
+
+[Added Associations]
+x-scheme-handler/tg=org.telegram.desktop.desktop;
+text/plain=sublime2.desktop;code.desktop;
+application/x-zerosize=sublime2.desktop;code.desktop;
+application/x-shellscript=code.desktop;sublime2.desktop;
+image/png=qimgv.desktop;
+video/mlt-playlist=vlc.desktop;

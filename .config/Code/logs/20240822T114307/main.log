@@ -1,0 +1,4 @@
+2024-08-22 11:43:07.731 [info] update#setState idle
+2024-08-22 11:43:37.653 [info] update#setState checking for updates
+2024-08-22 11:43:37.657 [info] update#setState available for download
+2024-08-22 11:50:42.708 [error] CodeWindow: renderer process gone (reason: killed, code: 9)

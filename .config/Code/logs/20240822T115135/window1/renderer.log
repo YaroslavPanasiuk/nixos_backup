@@ -1,0 +1,10 @@
+2024-08-22 11:51:37.018 [info] Started local extension host with pid 13047.
+2024-08-22 11:51:40.070 [info] [perf] Render performance baseline is 34ms
+2024-08-22 12:00:45.460 [error] spawn dumb ENOENT: Error: spawn dumb ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+    at onErrorNT (node:internal/child_process:484:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-08-22 12:01:03.493 [error] spawn dumb ENOENT: Error: spawn dumb ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+    at onErrorNT (node:internal/child_process:484:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)

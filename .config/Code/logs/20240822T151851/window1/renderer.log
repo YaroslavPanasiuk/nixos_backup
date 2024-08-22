@@ -1,0 +1,5 @@
+2024-08-22 15:18:52.864 [info] Started local extension host with pid 2065.
+2024-08-22 15:18:55.905 [info] [perf] Render performance baseline is 46ms
+2024-08-22 16:11:58.054 [error] [text file model] handleSaveError(67) - exit - resulted in a save error: Error: Unable to write file '/etc/nixos/configuration.nix' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/nixos/configuration.nix') file:///etc/nixos/configuration.nix
+2024-08-22 16:12:32.890 [error] [text file model] handleSaveError(68) - exit - resulted in a save error: Error: Unable to write file '/etc/nixos/configuration.nix' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/nixos/configuration.nix') file:///etc/nixos/configuration.nix
+2024-08-22 16:14:30.849 [error] [text file model] handleSaveError(70) - exit - resulted in a save error: Error: Unable to write file '/etc/nixos/configuration.nix' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/nixos/configuration.nix') file:///etc/nixos/configuration.nix

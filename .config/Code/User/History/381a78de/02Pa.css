@@ -1,0 +1,32 @@
+@define-color foreground rgb(246,234,192);
+@define-color background rgba(39,35,22, 0.9);
+@define-color base rgba(0, 0, 0, 0.9);
+@define-color cursor rgb(246,234,192);
+
+@define-color color0 rgb(39,35,22);
+@define-color color1 rgb(67,124,135);
+@define-color color2 rgb(171,171,136);
+@define-color color3 rgb(209,185,133);
+@define-color color4 rgb(223,190,139);
+@define-color color5 rgb(221,195,138);
+@define-color color6 rgb(234,206,141);
+@define-color color7 rgb(246,234,192);
+@define-color color8 rgb(172,163,134);
+@define-color color9 rgb(67,124,135);
+@define-color color10 rgb(171,171,136);
+@define-color color11 rgb(209,185,133);
+@define-color color12 rgb(223,190,139);
+@define-color color13 rgb(221,195,138);
+@define-color color14 rgb(234,206,141);
+@define-color color15 rgb(246,234,192);
+
+@define-color color0a rgba(39,35,22, 0.3);
+@define-color color1a rgba(67,124,135, 0.3);
+@define-color color2a rgba(171,171,136, 0.5);
+@define-color color3a rgba(209,185,133, 0.5);
+@define-color color4a rgba(223,190,139, 0.5);
+@define-color color5a rgba(221,195,138, 0.5);
+@define-color color6a rgba(234,206,141, 0.5);
+@define-color color7a rgba(246,234,192, 0.5);
+@define-color color8a rgba(172,163,134, 0.5);
+@define-color color9a rgba(67,124,135, 0.5);
