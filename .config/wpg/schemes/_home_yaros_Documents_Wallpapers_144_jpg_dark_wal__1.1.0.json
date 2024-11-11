@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/Documents/Wallpapers/144.jpg",
+    "alpha": "90",
+    "special": {
+        "background": "#0a0a19",
+        "foreground": "#f4bcc3",
+        "cursor": "#f4bcc3"
+    },
+    "colors": {
+        "color0": "#0a0a19",
+        "color1": "#0E55D9",
+        "color2": "#0D5DE5",
+        "color3": "#0D62E9",
+        "color4": "#A65B92",
+        "color5": "#F87588",
+        "color6": "#6D90C1",
+        "color7": "#f4bcc3",
+        "color8": "#aa8388",
+        "color9": "#0E55D9",
+        "color10": "#0D5DE5",
+        "color11": "#0D62E9",
+        "color12": "#A65B92",
+        "color13": "#F87588",
+        "color14": "#6D90C1",
+        "color15": "#f4bcc3"
+    }
+}

@@ -1,0 +1,9 @@
+2024/11/08-15:16:08.277 4 Reusing MANIFEST /home/yaros/.config/thorium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/11/08-15:16:08.285 4 Recovering log #348
+2024/11/08-15:16:08.286 4 Reusing old log /home/yaros/.config/thorium/Default/Local Storage/leveldb/000348.log 
+2024/11/08-15:17:35.629 5 Level-0 table #352: started
+2024/11/08-15:17:35.634 5 Level-0 table #352: 26837 bytes OK
+2024/11/08-15:17:35.642 5 Delete type=0 #348
+2024/11/08-18:03:17.408 5 Level-0 table #354: started
+2024/11/08-18:03:17.415 5 Level-0 table #354: 14340 bytes OK
+2024/11/08-18:03:17.425 5 Delete type=0 #351

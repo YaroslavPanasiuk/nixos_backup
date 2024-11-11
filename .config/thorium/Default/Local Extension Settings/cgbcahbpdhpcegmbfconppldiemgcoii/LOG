@@ -1,0 +1,54 @@
+2024/11/08-15:16:09.214 1636 Reusing MANIFEST /home/yaros/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii/MANIFEST-000001
+2024/11/08-15:16:09.214 1636 Recovering log #206
+2024/11/08-15:16:09.214 1636 Reusing old log /home/yaros/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii/000206.log 
+2024/11/08-15:17:17.763 1636 Level-0 table #210: started
+2024/11/08-15:17:17.788 1636 Level-0 table #210: 4340372 bytes OK
+2024/11/08-15:17:17.793 1636 Delete type=0 #206
+2024/11/08-15:17:21.459 1636 Level-0 table #212: started
+2024/11/08-15:17:21.563 1636 Level-0 table #212: 4614604 bytes OK
+2024/11/08-15:17:21.568 1636 Delete type=0 #209
+2024/11/08-16:18:00.158 1635 Level-0 table #214: started
+2024/11/08-16:18:00.172 1635 Level-0 table #214: 4324422 bytes OK
+2024/11/08-16:18:00.176 1635 Delete type=0 #211
+2024/11/08-16:18:00.177 1635 Compacting 4@0 + 4@1 files
+2024/11/08-16:18:00.189 1635 Generated table #215@0: 4 keys, 2359303 bytes
+2024/11/08-16:18:00.203 1635 Generated table #216@0: 7 keys, 2647704 bytes
+2024/11/08-16:18:00.230 1635 Generated table #217@0: 15 keys, 1948895 bytes
+2024/11/08-16:18:00.230 1635 Compacted 4@0 + 4@1 files => 6955902 bytes
+2024/11/08-16:18:00.235 1635 compacted to: files[ 0 3 5 0 0 0 0 ]
+2024/11/08-16:18:00.236 1635 Delete type=2 #210
+2024/11/08-16:18:00.236 1635 Delete type=2 #214
+2024/11/08-16:18:00.236 1635 Delete type=2 #200
+2024/11/08-16:18:00.236 1635 Delete type=2 #212
+2024/11/08-16:18:00.236 1635 Delete type=2 #199
+2024/11/08-16:18:00.236 1635 Delete type=2 #203
+2024/11/08-16:18:00.236 1635 Delete type=2 #207
+2024/11/08-16:18:00.236 1635 Delete type=2 #201
+2024/11/08-16:18:57.250 1640 Level-0 table #219: started
+2024/11/08-16:18:57.305 1640 Level-0 table #219: 6089192 bytes OK
+2024/11/08-16:18:57.312 1640 Delete type=0 #213
+2024/11/08-17:18:07.136 1634 Level-0 table #221: started
+2024/11/08-17:18:07.155 1634 Level-0 table #221: 4335047 bytes OK
+2024/11/08-17:18:07.160 1634 Delete type=0 #218
+2024/11/08-17:19:04.687 1635 Level-0 table #223: started
+2024/11/08-17:19:04.743 1635 Level-0 table #223: 6150002 bytes OK
+2024/11/08-17:19:04.748 1635 Delete type=0 #220
+2024/11/08-18:18:16.377 1635 Level-0 table #225: started
+2024/11/08-18:18:16.469 1635 Level-0 table #225: 4942277 bytes OK
+2024/11/08-18:18:16.480 1635 Delete type=0 #222
+2024/11/08-18:18:16.487 1635 Compacting 4@0 + 3@1 files
+2024/11/08-18:18:16.551 1635 Generated table #226@0: 4 keys, 2364269 bytes
+2024/11/08-18:18:16.623 1635 Generated table #227@0: 7 keys, 2655195 bytes
+2024/11/08-18:18:16.740 1635 Generated table #228@0: 15 keys, 1947670 bytes
+2024/11/08-18:18:16.740 1635 Compacted 4@0 + 3@1 files => 6967134 bytes
+2024/11/08-18:18:16.745 1635 compacted to: files[ 0 3 5 0 0 0 0 ]
+2024/11/08-18:18:16.747 1635 Delete type=2 #219
+2024/11/08-18:18:16.747 1635 Delete type=2 #223
+2024/11/08-18:18:16.747 1635 Delete type=2 #216
+2024/11/08-18:18:16.748 1635 Delete type=2 #221
+2024/11/08-18:18:16.748 1635 Delete type=2 #225
+2024/11/08-18:18:16.748 1635 Delete type=2 #215
+2024/11/08-18:18:16.748 1635 Delete type=2 #217
+2024/11/08-18:19:18.111 1635 Level-0 table #230: started
+2024/11/08-18:19:18.389 1635 Level-0 table #230: 7545866 bytes OK
+2024/11/08-18:19:18.397 1635 Delete type=0 #224

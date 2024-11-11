@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/shared/Wallpapers/ghibli8.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F3B4E",
+        "foreground": "#dae1d5",
+        "cursor": "#dae1d5"
+    },
+    "colors": {
+        "color0": "#0F3B4E",
+        "color1": "#14688B",
+        "color2": "#567889",
+        "color3": "#59A09F",
+        "color4": "#0B94DC",
+        "color5": "#2DA7DF",
+        "color6": "#4EACC9",
+        "color7": "#dae1d5",
+        "color8": "#989d95",
+        "color9": "#14688B",
+        "color10": "#567889",
+        "color11": "#59A09F",
+        "color12": "#0B94DC",
+        "color13": "#2DA7DF",
+        "color14": "#4EACC9",
+        "color15": "#dae1d5"
+    }
+}

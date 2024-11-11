@@ -1,0 +1,6 @@
+2024/10/08-11:17:29.352 b53 Creating DB /home/yaros/.config/obsidian/WebStorage/2/IndexedDB/indexeddb.leveldb since it was missing.
+2024/10/08-11:17:29.358 b53 Reusing MANIFEST /home/yaros/.config/obsidian/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/10/08-11:17:34.446 a33 Level-0 table #5: started
+2024/10/08-11:17:34.449 a33 Level-0 table #5: 8044 bytes OK
+2024/10/08-11:17:34.453 a33 Delete type=0 #3
+2024/10/08-11:17:34.453 a33 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

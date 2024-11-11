@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/shared/Wallpapers/gon.jpg",
+    "alpha": "90",
+    "special": {
+        "background": "#120e1c",
+        "foreground": "#f0e5c9",
+        "cursor": "#f0e5c9"
+    },
+    "colors": {
+        "color0": "#120e1c",
+        "color1": "#6E97A4",
+        "color2": "#41A0B0",
+        "color3": "#878082",
+        "color4": "#94B0A2",
+        "color5": "#C8BB98",
+        "color6": "#DCD3A2",
+        "color7": "#f0e5c9",
+        "color8": "#a8a08c",
+        "color9": "#6E97A4",
+        "color10": "#41A0B0",
+        "color11": "#878082",
+        "color12": "#94B0A2",
+        "color13": "#C8BB98",
+        "color14": "#DCD3A2",
+        "color15": "#f0e5c9"
+    }
+}

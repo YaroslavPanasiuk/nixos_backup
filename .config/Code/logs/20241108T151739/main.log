@@ -1,0 +1,7 @@
+2024-11-08 15:17:39.647 [info] update#setState idle
+2024-11-08 15:18:09.651 [info] update#setState checking for updates
+2024-11-08 15:18:09.657 [info] update#setState available for download
+2024-11-08 20:09:55.053 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 6551]: crashed with code 15 and reason 'killed'
+2024-11-08 20:09:55.093 [info] Extension host with pid 6539 exited with code: 15, signal: unknown.
+2024-11-08 20:09:55.094 [error] [UtilityProcess id: 1, type: extensionHost, pid: 6539]: crashed with code 15 and reason 'killed'
+2024-11-08 20:09:55.095 [error] [UtilityProcess type: shared-process, pid: 6550]: crashed with code 15 and reason 'killed'

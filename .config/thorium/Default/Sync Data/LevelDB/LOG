@@ -1,0 +1,15 @@
+2024/11/08-15:16:08.267 1635 Reusing MANIFEST /home/yaros/.config/thorium/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/11/08-15:16:08.273 1635 Recovering log #39
+2024/11/08-15:16:08.277 1635 Reusing old log /home/yaros/.config/thorium/Default/Sync Data/LevelDB/000039.log 
+2024/11/08-15:16:12.354 1634 Level-0 table #43: started
+2024/11/08-15:16:12.360 1634 Level-0 table #43: 115703 bytes OK
+2024/11/08-15:16:12.366 1634 Delete type=0 #39
+2024/11/08-15:16:12.367 1634 Compacting 4@0 + 1@1 files
+2024/11/08-15:16:12.375 1634 Generated table #44@0: 213 keys, 36862 bytes
+2024/11/08-15:16:12.375 1634 Compacted 4@0 + 1@1 files => 36862 bytes
+2024/11/08-15:16:12.379 1634 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/08-15:16:12.379 1634 Delete type=2 #40
+2024/11/08-15:16:12.379 1634 Delete type=2 #34
+2024/11/08-15:16:12.380 1634 Delete type=2 #31
+2024/11/08-15:16:12.380 1634 Delete type=2 #37
+2024/11/08-15:16:12.380 1634 Delete type=2 #43

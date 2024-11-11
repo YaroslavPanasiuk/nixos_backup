@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/Documents/Wallpapers/garuda4.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0f1d",
+        "foreground": "#f4e6a2",
+        "cursor": "#f4e6a2"
+    },
+    "colors": {
+        "color0": "#0f0f1d",
+        "color1": "#77455C",
+        "color2": "#7B4261",
+        "color3": "#A54052",
+        "color4": "#F65A59",
+        "color5": "#A69E5C",
+        "color6": "#F7A558",
+        "color7": "#f4e6a2",
+        "color8": "#aaa171",
+        "color9": "#77455C",
+        "color10": "#7B4261",
+        "color11": "#A54052",
+        "color12": "#F65A59",
+        "color13": "#A69E5C",
+        "color14": "#F7A558",
+        "color15": "#f4e6a2"
+    }
+}

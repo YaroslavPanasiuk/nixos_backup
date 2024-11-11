@@ -1,0 +1,9 @@
+[Unit]
+Description=Run Battery Level Checker every 5 minutes
+
+[Timer]
+OnBootSec=100
+OnUnitActiveSec=100
+
+[Install]
+WantedBy=timers.target

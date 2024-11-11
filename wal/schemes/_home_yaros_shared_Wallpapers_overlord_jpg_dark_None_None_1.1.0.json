@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/shared/Wallpapers/overlord.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0d16",
+        "foreground": "#ebc9aa",
+        "cursor": "#ebc9aa"
+    },
+    "colors": {
+        "color0": "#0a0d16",
+        "color1": "#982B3B",
+        "color2": "#A62E44",
+        "color3": "#CF3145",
+        "color4": "#F92F52",
+        "color5": "#B64D4B",
+        "color6": "#EF614B",
+        "color7": "#ebc9aa",
+        "color8": "#a48c76",
+        "color9": "#982B3B",
+        "color10": "#A62E44",
+        "color11": "#CF3145",
+        "color12": "#F92F52",
+        "color13": "#B64D4B",
+        "color14": "#EF614B",
+        "color15": "#ebc9aa"
+    }
+}

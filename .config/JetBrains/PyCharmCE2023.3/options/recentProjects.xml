@@ -1,0 +1,84 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/test">
+          <value>
+            <RecentProjectMetaInfo frameTitle="test – main.py" projectWorkspaceId="2jxTzu3voIWRGqsIcNaC4zfTkjR">
+              <option name="activationTimestamp" value="1722330052154" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-233.13135.95" />
+              <option name="buildTimestamp" value="315532800000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="260" y="56" width="1400" height="1000" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1722329896507" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/test1">
+          <value>
+            <RecentProjectMetaInfo frameTitle="test1 – main.py" projectWorkspaceId="2jxYAavF3ftyCOxw85zQ9uIhV3Y">
+              <option name="activationTimestamp" value="1722336051269" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-233.13135.95" />
+              <option name="buildTimestamp" value="315532800000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="260" y="56" width="1400" height="1000" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1722330052572" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/test2">
+          <value>
+            <RecentProjectMetaInfo frameTitle="test2 – main.py" projectWorkspaceId="2jxkKW8oinorfRDt1G3efSRtOk3">
+              <option name="activationTimestamp" value="1722336929413" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-233.13135.95" />
+              <option name="buildTimestamp" value="315532800000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="260" y="56" width="1400" height="1000" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1722336052137" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Projects/statistics_bot/CU_statistics_bot">
+          <value>
+            <RecentProjectMetaInfo frameTitle="CU_statistics_bot – main.py" opened="true" projectWorkspaceId="2jxGrodPSNb48228Zju8NX2laqk">
+              <option name="activationTimestamp" value="1722424502535" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-233.13135.95" />
+              <option name="buildTimestamp" value="315532800000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="260" y="56" width="1400" height="1000" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1722336930318" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/light-edit">
+          <value>
+            <RecentProjectMetaInfo hidden="true" opened="true">
+              <option name="activationTimestamp" value="1722432882930" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$APPLICATION_CONFIG_DIR$/light-edit" />
+    <option name="lastProjectLocation" value="$USER_HOME$/PycharmProjects" />
+  </component>
+</application>

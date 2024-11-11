@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/shared/Wallpapers/dio.jpg",
+    "alpha": "90",
+    "special": {
+        "background": "#1c0e0f",
+        "foreground": "#f2e6c8",
+        "cursor": "#f2e6c8"
+    },
+    "colors": {
+        "color0": "#1c0e0f",
+        "color1": "#DFA456",
+        "color2": "#FDE25D",
+        "color3": "#6B2F8C",
+        "color4": "#C929B3",
+        "color5": "#AF35CE",
+        "color6": "#E89DA3",
+        "color7": "#f2e6c8",
+        "color8": "#a9a18c",
+        "color9": "#DFA456",
+        "color10": "#FDE25D",
+        "color11": "#6B2F8C",
+        "color12": "#C929B3",
+        "color13": "#AF35CE",
+        "color14": "#E89DA3",
+        "color15": "#f2e6c8"
+    }
+}

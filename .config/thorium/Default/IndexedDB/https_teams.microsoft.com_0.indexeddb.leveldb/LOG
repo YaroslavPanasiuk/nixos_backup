@@ -1,0 +1,34 @@
+2024/10/28-08:55:03.478 96b Reusing MANIFEST /home/yaros/.config/thorium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/28-08:55:03.479 96b Recovering log #90
+2024/10/28-08:55:03.480 96b Reusing old log /home/yaros/.config/thorium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000090.log 
+2024/10/28-08:55:03.480 96b Delete type=2 #95
+2024/10/28-08:55:03.480 96b Delete type=2 #78
+2024/10/28-08:55:03.480 96b Delete type=2 #85
+2024/10/28-08:55:03.480 96b Delete type=2 #92
+2024/10/28-11:47:51.083 96c Level-0 table #101: started
+2024/10/28-11:47:51.129 96c Level-0 table #101: 938300 bytes OK
+2024/10/28-11:47:51.139 96c Delete type=0 #90
+2024/10/28-11:47:51.141 96c Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\xe7\x04\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 120609 : 0
+2024/10/28-11:47:51.141 96c Compacting 2@0 + 0@1 files
+2024/10/28-11:47:51.175 96c Generated table #102@0: 2190 keys, 115330 bytes
+2024/10/28-11:47:51.175 96c Compacted 2@0 + 0@1 files => 115330 bytes
+2024/10/28-11:47:51.180 96c compacted to: files[ 0 1 5 0 0 0 0 ]
+2024/10/28-11:47:51.181 96c Delete type=2 #101
+2024/10/28-11:47:51.181 96c Delete type=2 #91
+2024/10/28-11:47:51.183 96c Manual compaction at level-0 from '\x00\x00\x00\x002\x02\xe7\x04\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 120609 : 0 .. (end); will stop at (end)
+2024/10/28-11:47:51.184 96c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00D\x02\x02\x01$\x000\x000\x000\x000\x000\x000\x000\x000\x00-\x000\x000\x000\x000\x00-\x000\x000\x000\x000\x00-\x000\x000\x000\x000\x00-\x000\x000\x000\x000\x000\x000\x000\x000\x000\x000\x000\x000' @ 123228 : 1
+2024/10/28-11:47:51.184 96c Compacting 1@1 + 5@2 files
+2024/10/28-11:47:51.251 96c Generated table #103@1: 4836 keys, 2145129 bytes
+2024/10/28-11:47:51.288 96c Generated table #104@1: 889 keys, 2140848 bytes
+2024/10/28-11:47:51.323 96c Generated table #105@1: 884 keys, 2142254 bytes
+2024/10/28-11:47:51.359 96c Generated table #106@1: 4210 keys, 2148305 bytes
+2024/10/28-11:47:51.388 96c Generated table #107@1: 4088 keys, 723426 bytes
+2024/10/28-11:47:51.388 96c Compacted 1@1 + 5@2 files => 9299962 bytes
+2024/10/28-11:47:51.392 96c compacted to: files[ 0 0 5 0 0 0 0 ]
+2024/10/28-11:47:51.393 96c Delete type=2 #96
+2024/10/28-11:47:51.393 96c Delete type=2 #94
+2024/10/28-11:47:51.393 96c Delete type=2 #102
+2024/10/28-11:47:51.393 96c Delete type=2 #93
+2024/10/28-11:47:51.393 96c Delete type=2 #97
+2024/10/28-11:47:51.393 96c Delete type=2 #98
+2024/10/28-11:47:51.397 96c Manual compaction at level-1 from '\x00D\x02\x02\x01$\x000\x000\x000\x000\x000\x000\x000\x000\x00-\x000\x000\x000\x000\x00-\x000\x000\x000\x000\x00-\x000\x000\x000\x000\x00-\x000\x000\x000\x000\x000\x000\x000\x000\x000\x000\x000\x000' @ 123228 : 1 .. (end); will stop at (end)

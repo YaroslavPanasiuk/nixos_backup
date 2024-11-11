@@ -1,0 +1,51 @@
+2024/11/08-15:17:51.684 1635 Reusing MANIFEST /home/yaros/.config/thorium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/08-15:17:51.684 1635 Recovering log #158
+2024/11/08-15:17:51.687 1635 Reusing old log /home/yaros/.config/thorium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000158.log 
+2024/11/08-15:18:29.917 1635 Level-0 table #185: started
+2024/11/08-15:18:29.940 1635 Level-0 table #185: 1537029 bytes OK
+2024/11/08-15:18:29.944 1635 Delete type=0 #158
+2024/11/08-15:18:29.947 1635 Compacting 1@0 + 0@1 files
+2024/11/08-15:18:29.963 1635 Generated table #186@0: 6111 keys, 824067 bytes
+2024/11/08-15:18:29.975 1635 Generated table #187@0: 1697 keys, 354493 bytes
+2024/11/08-15:18:29.976 1635 Compacted 1@0 + 0@1 files => 1178560 bytes
+2024/11/08-15:18:29.980 1635 compacted to: files[ 0 2 15 0 0 0 0 ]
+2024/11/08-15:18:29.981 1635 Delete type=2 #185
+2024/11/08-15:18:29.987 1636 Compacting 1@1 + 2@2 files
+2024/11/08-15:18:30.033 1636 Generated table #188@1: 13719 keys, 2132061 bytes
+2024/11/08-15:18:30.060 1636 Generated table #189@1: 20274 keys, 377799 bytes
+2024/11/08-15:18:30.060 1636 Compacted 1@1 + 2@2 files => 2509860 bytes
+2024/11/08-15:18:30.063 1636 compacted to: files[ 0 1 15 0 0 0 0 ]
+2024/11/08-15:18:30.064 1636 Delete type=2 #187
+2024/11/08-15:18:30.064 1636 Delete type=2 #182
+2024/11/08-15:18:30.064 1636 Delete type=2 #181
+2024/11/08-15:18:30.065 1635 Compacting 1@1 + 10@2 files
+2024/11/08-15:18:30.070 1635 Level-0 table #192: started
+2024/11/08-15:18:30.092 1635 Level-0 table #192: 1530381 bytes OK
+2024/11/08-15:18:30.096 1635 Delete type=0 #184
+2024/11/08-15:18:30.125 1635 Generated table #190@1: 5937 keys, 2129082 bytes
+2024/11/08-15:18:30.158 1635 Generated table #193@1: 2557 keys, 2125650 bytes
+2024/11/08-15:18:30.200 1635 Generated table #194@1: 2455 keys, 2128212 bytes
+2024/11/08-15:18:30.240 1635 Generated table #195@1: 1889 keys, 2129308 bytes
+2024/11/08-15:18:30.272 1635 Generated table #196@1: 2764 keys, 2121786 bytes
+2024/11/08-15:18:30.297 1635 Generated table #197@1: 2011 keys, 2124943 bytes
+2024/11/08-15:18:30.301 1635 Level-0 table #200: started
+2024/11/08-15:18:30.324 1635 Level-0 table #200: 1717590 bytes OK
+2024/11/08-15:18:30.330 1635 Delete type=0 #191
+2024/11/08-15:18:30.358 1635 Generated table #198@1: 2488 keys, 2121736 bytes
+2024/11/08-15:18:30.390 1635 Generated table #201@1: 2490 keys, 2121225 bytes
+2024/11/08-15:18:30.419 1635 Generated table #202@1: 1856 keys, 2122052 bytes
+2024/11/08-15:18:30.447 1635 Generated table #203@1: 2904 keys, 2121825 bytes
+2024/11/08-15:18:30.461 1635 Generated table #204@1: 1200 keys, 829458 bytes
+2024/11/08-15:18:30.461 1635 Compacted 1@1 + 10@2 files => 22075277 bytes
+2024/11/08-15:18:30.465 1635 compacted to: files[ 2 0 16 0 0 0 0 ]
+2024/11/08-15:18:30.466 1635 Delete type=2 #176
+2024/11/08-15:18:30.466 1635 Delete type=2 #172
+2024/11/08-15:18:30.466 1635 Delete type=2 #186
+2024/11/08-15:18:30.466 1635 Delete type=2 #177
+2024/11/08-15:18:30.466 1635 Delete type=2 #166
+2024/11/08-15:18:30.466 1635 Delete type=2 #167
+2024/11/08-15:18:30.466 1635 Delete type=2 #175
+2024/11/08-15:18:30.466 1635 Delete type=2 #171
+2024/11/08-15:18:30.466 1635 Delete type=2 #168
+2024/11/08-15:18:30.466 1635 Delete type=2 #173
+2024/11/08-15:18:30.467 1635 Delete type=2 #174

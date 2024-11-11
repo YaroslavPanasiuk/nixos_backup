@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/shared/Wallpapers/tanjiro.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0a22",
+        "foreground": "#f6d9be",
+        "cursor": "#f6d9be"
+    },
+    "colors": {
+        "color0": "#0e0a22",
+        "color1": "#F5897D",
+        "color2": "#427084",
+        "color3": "#219AA1",
+        "color4": "#3098A3",
+        "color5": "#52B3AF",
+        "color6": "#F38D87",
+        "color7": "#f6d9be",
+        "color8": "#ac9785",
+        "color9": "#F5897D",
+        "color10": "#427084",
+        "color11": "#219AA1",
+        "color12": "#3098A3",
+        "color13": "#52B3AF",
+        "color14": "#F38D87",
+        "color15": "#f6d9be"
+    }
+}

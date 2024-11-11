@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/shared/Wallpapers/pantera.jpg",
+    "alpha": "90",
+    "special": {
+        "background": "#0E1703",
+        "foreground": "#c6c49e",
+        "cursor": "#c6c49e"
+    },
+    "colors": {
+        "color0": "#0E1703",
+        "color1": "#59672B",
+        "color2": "#716E37",
+        "color3": "#738A1B",
+        "color4": "#7A8443",
+        "color5": "#94A21E",
+        "color6": "#CACE39",
+        "color7": "#c6c49e",
+        "color8": "#8a896e",
+        "color9": "#59672B",
+        "color10": "#716E37",
+        "color11": "#738A1B",
+        "color12": "#7A8443",
+        "color13": "#94A21E",
+        "color14": "#CACE39",
+        "color15": "#c6c49e"
+    }
+}

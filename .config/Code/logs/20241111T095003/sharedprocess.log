@@ -1,0 +1,110 @@
+2024-11-11 09:50:07.793 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:07.807 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:07.807 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:07.815 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:07.815 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:07.821 [info] Deleted uninstalled extension from disk ms-python.vscode-pylance /home/yaros/.vscode/extensions/ms-python.vscode-pylance-2024.10.1
+2024-11-11 09:50:07.856 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:07.869 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:07.869 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:07.870 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:07.870 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:08.030 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:08.032 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:08.033 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:08.036 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:08.042 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:08.207 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:08.208 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:08.214 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:08.214 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:08.218 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:08.340 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:08.341 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:08.342 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:08.344 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:08.346 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:09.230 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:09.232 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:09.232 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:09.233 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:09.236 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:09.505 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:09.508 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:09.511 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:09.514 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:09.522 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:09.746 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:09.747 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:09.750 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:09.755 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:09.760 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:09.970 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:09.973 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:09.974 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:09.976 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:09.981 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:10.314 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:10.315 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:10.315 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:10.316 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:10.319 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:10.335 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:10.337 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:10.337 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:10.338 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:10.341 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:10.719 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:10.720 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:10.721 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:10.722 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:10.727 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:35.862 [info] Getting Manifest... ms-python.python
+2024-11-11 09:50:35.867 [info] Getting Manifest... visualstudioexptteam.intellicode-api-usage-examples
+2024-11-11 09:50:35.872 [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+2024-11-11 09:50:35.900 [info] Installing extension: visualstudioexptteam.intellicode-api-usage-examples {"productVersion":{"version":"1.95.2","date":"2024-11-07T11:09:11.719Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/yaros/.vscode/extensions/extensions.json","path":"/home/yaros/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-11 09:50:35.902 [info] Installing extension: visualstudioexptteam.vscodeintellicode {"productVersion":{"version":"1.95.2","date":"2024-11-07T11:09:11.719Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/yaros/.vscode/extensions/extensions.json","path":"/home/yaros/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-11 09:50:35.945 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.95.2","date":"2024-11-07T11:09:11.719Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/yaros/.vscode/extensions/extensions.json","path":"/home/yaros/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-11 09:50:36.562 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/yaros/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/yaros/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/nix/store/8ki3ry01562j1mf3l29xg5lav4mcymvg-vscode-1.92.0/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19408)
+    at u (/nix/store/8ki3ry01562j1mf3l29xg5lav4mcymvg-vscode-1.92.0/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19519)
+    at p.hb (/nix/store/8ki3ry01562j1mf3l29xg5lav4mcymvg-vscode-1.92.0/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36714)
+    at p.stat (/nix/store/8ki3ry01562j1mf3l29xg5lav4mcymvg-vscode-1.92.0/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29034)
+    at async c.stat (/nix/store/8ki3ry01562j1mf3l29xg5lav4mcymvg-vscode-1.92.0/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14940)
+    at async z.ub (/nix/store/8ki3ry01562j1mf3l29xg5lav4mcymvg-vscode-1.92.0/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120384)
+2024-11-11 09:50:36.634 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:36.641 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:36.649 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:36.650 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:36.660 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:36.694 [error] Error while installing the extension visualstudioexptteam.intellicode-api-usage-examples Cannot read the extension from /home/yaros/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9 vscode-userdata:/home/yaros/.vscode/extensions/extensions.json
+2024-11-11 09:50:36.710 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:36.714 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:36.716 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:36.717 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:36.725 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:36.736 [error] Error while installing the extension visualstudioexptteam.vscodeintellicode Cannot read the extension from /home/yaros/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2 vscode-userdata:/home/yaros/.vscode/extensions/extensions.json
+2024-11-11 09:50:37.287 [info] Extension signature verification result for ms-python.python: EACCES. Executed: false. Duration: 7ms.
+2024-11-11 09:50:40.520 [info] Extracted extension to file:///home/yaros/.vscode/extensions/ms-python.python-2024.18.1-linux-x64: ms-python.python
+2024-11-11 09:50:40.528 [info] Renamed to /home/yaros/.vscode/extensions/ms-python.python-2024.18.1-linux-x64
+2024-11-11 09:50:40.533 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:40.568 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:40.569 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:40.570 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:40.570 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:50:40.574 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:40.576 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:50:40.578 [error] Error while installing the extension ms-python.python Cannot read the extension from /home/yaros/.vscode/extensions/ms-python.python-2024.18.1-linux-x64 vscode-userdata:/home/yaros/.vscode/extensions/extensions.json
+2024-11-11 09:50:40.618 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/yaros/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/yaros/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/nix/store/8ki3ry01562j1mf3l29xg5lav4mcymvg-vscode-1.92.0/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19408)
+    at u (/nix/store/8ki3ry01562j1mf3l29xg5lav4mcymvg-vscode-1.92.0/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19519)
+    at p.hb (/nix/store/8ki3ry01562j1mf3l29xg5lav4mcymvg-vscode-1.92.0/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36714)
+    at p.stat (/nix/store/8ki3ry01562j1mf3l29xg5lav4mcymvg-vscode-1.92.0/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29034)
+    at async c.stat (/nix/store/8ki3ry01562j1mf3l29xg5lav4mcymvg-vscode-1.92.0/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14940)
+    at async z.ub (/nix/store/8ki3ry01562j1mf3l29xg5lav4mcymvg-vscode-1.92.0/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120384)
+2024-11-11 09:55:10.583 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:55:10.585 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:55:10.590 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:55:10.598 [error] [/home/yaros/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0.
+2024-11-11 09:55:10.601 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.
+2024-11-11 09:55:10.608 [error] [/home/yaros/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.92.0. Extension requires: ^1.94.0-20240918.

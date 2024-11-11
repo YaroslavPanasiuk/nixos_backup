@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/Documents/Wallpapers/gotei.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B0B15",
+        "foreground": "#d1d0dc",
+        "cursor": "#d1d0dc"
+    },
+    "colors": {
+        "color0": "#0B0B15",
+        "color1": "#415785",
+        "color2": "#5C6D89",
+        "color3": "#69788F",
+        "color4": "#7386A0",
+        "color5": "#7B9DC5",
+        "color6": "#9297A6",
+        "color7": "#d1d0dc",
+        "color8": "#92919a",
+        "color9": "#415785",
+        "color10": "#5C6D89",
+        "color11": "#69788F",
+        "color12": "#7386A0",
+        "color13": "#7B9DC5",
+        "color14": "#9297A6",
+        "color15": "#d1d0dc"
+    }
+}

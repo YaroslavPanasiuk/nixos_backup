@@ -1,0 +1,7 @@
+[Unit]
+Description=Battery Level Checker
+
+[Service]
+Restart=always
+RestartSec=600
+ExecStart=rm /home/yaros/Documents/battery_notifications && touch /home/yaros/Documents/battery_notifications

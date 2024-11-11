@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/shared/Wallpapers/evangelion9.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1b0a0d",
+        "foreground": "#f1cac0",
+        "cursor": "#f1cac0"
+    },
+    "colors": {
+        "color0": "#1b0a0d",
+        "color1": "#A35A57",
+        "color2": "#8B5A67",
+        "color3": "#E36C59",
+        "color4": "#F98F6E",
+        "color5": "#D3B564",
+        "color6": "#A56B8D",
+        "color7": "#f1cac0",
+        "color8": "#a88d86",
+        "color9": "#A35A57",
+        "color10": "#8B5A67",
+        "color11": "#E36C59",
+        "color12": "#F98F6E",
+        "color13": "#D3B564",
+        "color14": "#A56B8D",
+        "color15": "#f1cac0"
+    }
+}

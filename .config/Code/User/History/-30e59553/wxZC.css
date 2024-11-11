@@ -1,0 +1,238 @@
+@import '/home/yaros/.cache/wal/gtk-theme.css';
+
+/**
+ * Base States
+ */
+.background {
+  background-color: @background;
+  color: rgba(255, 255, 255, 0.87);
+}
+
+spinbutton.vertical > text:disabled {
+  box-shadow: 0 2px 1px -1px rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 3px 0 rgba(0, 0, 0, 0.12);
+  background-color: @base;
+  color: rgba(255, 255, 255, 0.38);
+}
+
+
+spinbutton.vertical > text.error:disabled {
+  box-shadow: 0 2px 1px -1px rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 3px 0 rgba(0, 0, 0, 0.12);
+  background-color: @base;
+  color: rgba(255, 255, 255, 0.38);
+}
+
+spinbutton.vertical > text.warning:disabled {
+  box-shadow: 0 2px 1px -1px rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 3px 0 rgba(0, 0, 0, 0.12);
+  background-color: @base;
+  color: rgba(255, 255, 255, 0.38);
+}
+
+spinbutton.vertical > text.warning image {
+  color: rgba(0, 0, 0, 0.7);
+}
+
+spinbutton.vertical > text.warning image:hover, spinbutton.vertical > text.warning image:active {
+  color: #000;
+}
+
+spinbutton.vertical > text.warning image:disabled {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+treeview entry, treeview entry.flat {
+  background-color: @base;
+}
+
+.inline-toolbar {
+  padding: 6px;
+  border-style: solid;
+  border-width: 0 1px 1px;
+  border-color: rgba(255, 255, 255, 0.12);
+  background-color: @base;
+}
+
+searchbar > revealer > box {
+  padding: 6px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+/**
+ * Title buttons
+ */
+
+
+windowcontrols:not(:only-child):not(.empty) {
+  border-image: linear-gradient(to bottom, transparent 12px, rgba(255, 255, 255, 0.12) 12px, rgba(255, 255, 255, 0.12) calc(100% - 12px), transparent calc(100% - 12px)) 1;
+}
+
+windowcontrols:not(:only-child):not(.empty).start:dir(ltr), windowcontrols:not(:only-child):not(.empty).end:dir(rtl) {
+  padding-right: 6px;
+  border-right: 1px solid;
+}
+
+windowcontrols:not(:only-child):not(.empty).start:dir(rtl), windowcontrols:not(:only-child):not(.empty).end:dir(ltr) {
+  padding-left: 6px;
+  border-left: 1px solid;
+}
+
+/**
+ * Header bars
+ */
+.titlebar {
+  transition: background-color 75ms cubic-bezier(0, 0, 0.2, 1), color 75ms cubic-bezier(0, 0, 0.2, 1);
+  border-radius: 4px 4px 0 0;
+  box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), inset 0 1px rgba(255, 255, 255, 0.05);
+  background-color: @color1;
+  color: rgba(255, 255, 255, 0.87);
+}
+
+.titlebar:disabled {
+  color: rgba(255, 255, 255, 0.38);
+}
+
+.titlebar:backdrop {
+  background-color: @base;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+
+/**
+ * Menus
+ */
+menubar {
+  background-color: @color1;
+  color: rgba(255, 255, 255, 0.87);
+}
+
+menubar:backdrop {
+  background-color: @base;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+scale > trough > highlight:disabled {
+  background-color: @background;
+  background-image: image(rgba(255, 255, 255, 0.26));
+}
+
+/**
+ * Print dialog
+ */
+window.dialog.print paper {
+  border-radius: 4px;
+  box-shadow: 0 2px 1px -1px rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 3px 0 rgba(0, 0, 0, 0.12);
+  background-color: @base;
+  color: rgba(255, 255, 255, 0.87);
+}
+
+/**
+ * Frames
+ */
+frame,
+.frame {
+  border-radius: 4px;
+  box-shadow: 0 2px 1px -1px rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 3px 0 rgba(0, 0, 0, 0.12);
+  background-color: @base;
+  color: rgba(255, 255, 255, 0.87);
+}
+
+/**
+ * Calendar
+ */
+calendar {
+  border-radius: 4px;
+  box-shadow: 0 2px 1px -1px rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 3px 0 rgba(0, 0, 0, 0.12);
+  background-color: @base;
+  color: rgba(255, 255, 255, 0.87);
+}
+
+window.solid-csd {
+  margin: 0;
+  padding: 2px;
+  border-radius: 0;
+  box-shadow: none;
+  box-shadow: inset 0 1px rgba(255, 255, 255, 0.05);
+  background-color: @color1;
+}
+
+window.solid-csd:backdrop {
+  background-color: @base;
+}
+
+/* GTK NAMED COLORS
+   ----------------
+   use responsibly! */
+/*
+widget text/foreground color */
+@define-color theme_fg_color rgba(255, 255, 255, 0.87);
+/*
+text color for entries, views and content in general */
+@define-color theme_text_color rgba(255, 255, 255, 0.87);
+/*
+widget base background color */
+@define-color theme_bg_color @background;
+/*
+text widgets and the like base background color */
+@define-color theme_base_color @base;
+/*
+base background color of selections */
+@define-color theme_selected_bg_color #8ab4f8;
+/*
+text/foreground color of selections */
+@define-color theme_selected_fg_color #000;
+/*
+base background color of insensitive widgets */
+@define-color insensitive_bg_color @background;
+/*
+text foreground color of insensitive widgets */
+@define-color insensitive_fg_color rgba(255, 255, 255, 0.38);
+/*
+insensitive text widgets and the like base background color */
+@define-color insensitive_base_color @base;
+/*
+widget text/foreground color on backdrop windows */
+@define-color theme_unfocused_fg_color rgba(255, 255, 255, 0.87);
+/*
+text color for entries, views and content in general on backdrop windows */
+@define-color theme_unfocused_text_color rgba(255, 255, 255, 0.87);
+/*
+widget base background color on backdrop windows */
+@define-color theme_unfocused_bg_color @background;
+/*
+text widgets and the like base background color on backdrop windows */
+@define-color theme_unfocused_base_color @base;
+/*
+base background color of selections on backdrop windows */
+@define-color theme_unfocused_selected_bg_color #8ab4f8;
+/*
+text/foreground color of selections on backdrop windows */
+@define-color theme_unfocused_selected_fg_color #000;
+/*
+insensitive color on backdrop windows */
+@define-color unfocused_insensitive_color rgba(255, 255, 255, 0.38);
+/*
+widgets main borders color */
+@define-color borders rgba(255, 255, 255, 0.12);
+/*
+widgets main borders color on backdrop windows */
+@define-color unfocused_borders rgba(255, 255, 255, 0.12);
+/*
+these are pretty self explicative */
+@define-color warning_color #fdd663;
+@define-color error_color #f28b82;
+@define-color success_color #81c995;
+/*
+these colors are exported for the window manager and shouldn't be used in applications,
+read if you used those and something break with a version upgrade you're on your own... */
+@define-color wm_title rgba(255, 255, 255, 0.87);
+@define-color wm_unfocused_title rgba(255, 255, 255, 0.6);
+@define-color wm_highlight rgba(255, 255, 255, 0.05);
+@define-color wm_bg @color1;
+@define-color wm_unfocused_bg @base;
+@define-color xfwm4_title #e3e3e3;
+@define-color xfwm4_unfocused_title #a5a5a5;
+/* content view background such as thumbnails view in Photos or Boxes */
+@define-color content_view_bg @background;
+/* Very contrasty background for text views (@theme_text_color foreground) */
+@define-color text_view_bg @background;
+/* placeholder for entries */
+@define-color placeholder_text_color #a5a5a5;

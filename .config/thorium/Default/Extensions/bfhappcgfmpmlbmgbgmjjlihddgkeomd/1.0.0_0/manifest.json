@@ -1,0 +1,29 @@
+{
+   "action": {
+      "default_icon": "icon_128.png",
+      "default_popup": "popup.html"
+   },
+   "background": {
+      "service_worker": "js/background.js"
+   },
+   "chrome_url_overrides": {
+      "newtab": "index.html"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDes__",
+   "homepage_url": "https://chrome.google.com/webstore/detail/bfhappcgfmpmlbmgbgmjjlihddgkeomd?utm_medium=extension&utm_source=newtab",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiGEif0phYwe67CkWZNI8mAPyptch6EuAg8VVxW8klPsAOCp2DMxgzgPgnym1WM0U7tOgMHsO3saOKv7j5zioVx2Vf4Q01ewJhuun+QWi/2lbmPqWUCIS37n7M6ZNSIAbhgiluLwWy09W6fU8w3+8DTIGBrYnnsIyPzI1H+iIX41zZU60idURZn/t1Hq/2h49yA238ttxxSH3bB07TCJ3nkcVTYpTZ5xrKs4YneIxu5D05H4377x+anqPhoM10f5tcJoGoapzjTRwpMdA0TXnU2IjDxlVInkfdbrzQNuq2CisxWIk8gXWP+f7YL4Ei/wJSKJ0OtOrw7QMSBb2Urux8wIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_extName__",
+   "options_ui": {
+      "open_in_tab": false,
+      "page": "popup.html"
+   },
+   "permissions": [ "activeTab", "storage", "declarativeNetRequest", "alarms" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0"
+}

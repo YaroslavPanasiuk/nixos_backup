@@ -1,0 +1,6 @@
+<application>
+  <component name="PySdkSettings">
+    <option name="PREFERRED_VIRTUALENV_BASE_PATH" value="$PROJECT_DIR$/.venv" />
+    <option name="PREFERRED_VIRTUALENV_BASE_SDK" value="/nix/store/5dxcdqsqj6rcryqzz53724h8f1xnqkl6-system-path/bin/python" />
+  </component>
+</application>

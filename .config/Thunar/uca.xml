@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>Open Terminal Here</name>
+	<submenu></submenu>
+	<unique-id>1722436849665568-1</unique-id>
+	<command>kitty -o allow_remote_control=yes -o enabled_layouts=tall</command>
+	<description>Example for a custom action</description>
+	<range></range>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+<action>
+	<icon></icon>
+	<name>Search</name>
+	<submenu></submenu>
+	<unique-id>1722714630722459-1</unique-id>
+	<command>catfish %f</command>
+	<description>Search with catfish</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
+	<icon>com.github.maoschanz.DynamicWallpaperEditor</icon>
+	<name>Set as theme</name>
+	<submenu></submenu>
+	<unique-id>1723897770831583-1</unique-id>
+	<command>/home/yaros/.config/waybar/set_wallpaper.sh %f</command>
+	<description></description>
+	<range>1</range>
+	<patterns>*.jpg</patterns>
+	<image-files/>
+</action>
+</actions>

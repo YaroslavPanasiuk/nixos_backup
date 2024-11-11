@@ -1,0 +1,10 @@
+file:///home/yaros/PycharmProjects/Test_NumPy/shell.nix {"mtime":1724436556389,"ctime":1724435098660,"size":140,"etag":"3cs23omsj4g","orphaned":false,"typeId":""}
+{ pkgs ? import <nixpkgs> {} }:
+
+pkgs.mkShell {
+  buildInputs = [
+    pkgs.python311
+    pkgs.poetry
+
+  ];
+}

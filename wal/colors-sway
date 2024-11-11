@@ -1,0 +1,21 @@
+set $wallpaper /home/yaros/shared/Wallpapers/299.jpg
+
+set $background #0a0312
+set $foreground #91cdc9
+
+set $color0 #0a0312
+set $color1 #9C2463
+set $color2 #CA2E60
+set $color3 #A1545A
+set $color4 #E45B62
+set $color5 #F4AA67
+set $color6 #39508B
+set $color7 #91cdc9
+set $color8 #658f8c
+set $color9 #9C2463
+set $color10 #CA2E60
+set $color11 #A1545A
+set $color12 #E45B62
+set $color13 #F4AA67
+set $color14 #39508B
+set $color15 #91cdc9

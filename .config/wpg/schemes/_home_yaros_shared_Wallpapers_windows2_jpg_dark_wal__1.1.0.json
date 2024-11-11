@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/shared/Wallpapers/windows2.jpg",
+    "alpha": "90",
+    "special": {
+        "background": "#000000",
+        "foreground": "#bdbdbd",
+        "cursor": "#bdbdbd"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#2B2B2B",
+        "color2": "#333333",
+        "color3": "#3B3B3B",
+        "color4": "#474747",
+        "color5": "#565656",
+        "color6": "#6D6D6D",
+        "color7": "#bdbdbd",
+        "color8": "#848484",
+        "color9": "#2B2B2B",
+        "color10": "#333333",
+        "color11": "#3B3B3B",
+        "color12": "#474747",
+        "color13": "#565656",
+        "color14": "#6D6D6D",
+        "color15": "#bdbdbd"
+    }
+}

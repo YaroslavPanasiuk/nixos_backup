@@ -1,0 +1,48 @@
+{
+	"projects": {
+		"default": {
+			"name": "Example",
+			"created": 1640995200000,
+			"parent": "default",
+			"shows": [
+				{
+					"id": "default"
+				},
+				{
+					"id": "section",
+					"type": "section",
+					"name": "Example",
+					"notes": "Write notes here"
+				}
+			]
+		},
+		"7674c565ed7": {
+			"name": "25.08.24",
+			"created": 1724535533235,
+			"parent": "/",
+			"shows": [
+				{
+					"id": "744d9",
+					"type": "section",
+					"name": "Timer",
+					"notes": ""
+				},
+				{
+					"id": "44d94",
+					"type": "section",
+					"name": "",
+					"notes": ""
+				},
+				{
+					"id": "108e35ec979"
+				}
+			]
+		}
+	},
+	"folders": {
+		"default": {
+			"name": "Meetings",
+			"parent": "/"
+		}
+	}
+}

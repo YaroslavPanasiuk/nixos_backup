@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/yaros/shared/Wallpapers/299.jpg"
+let background = "#0a0312"
+let foreground = "#91cdc9"
+let cursor     = "#91cdc9"
+
+" Colors
+let color0  = "#0a0312"
+let color1  = "#9C2463"
+let color2  = "#CA2E60"
+let color3  = "#A1545A"
+let color4  = "#E45B62"
+let color5  = "#F4AA67"
+let color6  = "#39508B"
+let color7  = "#91cdc9"
+let color8  = "#658f8c"
+let color9  = "#9C2463"
+let color10 = "#CA2E60"
+let color11 = "#A1545A"
+let color12 = "#E45B62"
+let color13 = "#F4AA67"
+let color14 = "#39508B"
+let color15 = "#91cdc9"

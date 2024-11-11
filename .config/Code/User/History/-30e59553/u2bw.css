@@ -1,0 +1,9 @@
+@import '/home/yaros/.cache/wal/gtk-theme.css';
+* {
+    -gtk-secondary-caret-color: @color0; 
+}
+
+.gtkstyle-fallback:selected {
+    color: @cursor;
+    background-color: @color1; 
+}

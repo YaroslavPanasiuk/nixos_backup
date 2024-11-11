@@ -1,0 +1,12 @@
+{
+  "environment": {
+    "executable": "/run/current-system/sw/bin/python3.11",
+    "prefix": "/nix/store/f0imlsncls08hiv38lfrlgrsqapkrbxb-python3-3.11.9",
+    "version": "3.11.9.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "/run/current-system/sw/bin/python3.11"
+    ]
+  },
+  "symlinks": []
+}

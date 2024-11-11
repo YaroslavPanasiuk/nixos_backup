@@ -1,0 +1,5 @@
+[Unit]
+Description=Battery Level Checker
+
+[Service]
+ExecStart=/home/yaros/Documents/battery_listener.sh

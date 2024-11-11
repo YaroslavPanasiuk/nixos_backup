@@ -1,0 +1,10 @@
+file:///home/yaros/shared/Projects/statistics_bot/CU_statistics_bot/shell.nix {"mtime":1724651470218,"ctime":1724651470218,"size":0,"etag":"3cschkkga0","orphaned":false,"typeId":""}
+{pkgs ? import <nixpkgs> {}}:
+
+pkgs.mkShell
+{
+	nativeBuildInputs = with pkgs;  [
+		python311Packages.numpy
+		python311Packages.pandas
+	];
+}

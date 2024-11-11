@@ -1,0 +1,18 @@
+2024/11/04-14:16:42.093 4 Reusing MANIFEST /home/yaros/.config/thorium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/11/04-14:16:42.115 4 Recovering log #342
+2024/11/04-14:16:42.117 4 Reusing old log /home/yaros/.config/thorium/Default/Local Storage/leveldb/000342.log 
+2024/11/04-14:17:12.500 4 Level-0 table #346: started
+2024/11/04-14:17:12.505 4 Level-0 table #346: 27718 bytes OK
+2024/11/04-14:17:12.511 4 Delete type=0 #342
+2024/11/04-14:17:12.513 4 Compacting 4@0 + 1@1 files
+2024/11/04-14:17:12.563 4 Generated table #347@0: 825 keys, 1298246 bytes
+2024/11/04-14:17:12.563 4 Compacted 4@0 + 1@1 files => 1298246 bytes
+2024/11/04-14:17:12.569 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/04-14:17:12.571 4 Delete type=2 #337
+2024/11/04-14:17:12.571 4 Delete type=2 #340
+2024/11/04-14:17:12.571 4 Delete type=2 #343
+2024/11/04-14:17:12.571 4 Delete type=2 #334
+2024/11/04-14:17:12.571 4 Delete type=2 #346
+2024/11/04-14:22:09.909 4 Level-0 table #349: started
+2024/11/04-14:22:09.921 4 Level-0 table #349: 48908 bytes OK
+2024/11/04-14:22:09.931 4 Delete type=0 #345

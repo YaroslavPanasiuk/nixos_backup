@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/shared/Wallpapers/fractal17.jpg",
+    "alpha": "90",
+    "special": {
+        "background": "#0F0D02",
+        "foreground": "#9cc27d",
+        "cursor": "#9cc27d"
+    },
+    "colors": {
+        "color0": "#0F0D02",
+        "color1": "#255207",
+        "color2": "#575609",
+        "color3": "#6E4D09",
+        "color4": "#932D07",
+        "color5": "#975E0B",
+        "color6": "#D1510A",
+        "color7": "#9cc27d",
+        "color8": "#6d8757",
+        "color9": "#255207",
+        "color10": "#575609",
+        "color11": "#6E4D09",
+        "color12": "#932D07",
+        "color13": "#975E0B",
+        "color14": "#D1510A",
+        "color15": "#9cc27d"
+    }
+}

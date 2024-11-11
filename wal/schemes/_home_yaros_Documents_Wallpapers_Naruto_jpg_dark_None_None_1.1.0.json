@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/Documents/Wallpapers/Naruto.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0a09",
+        "foreground": "#aebac4",
+        "cursor": "#aebac4"
+    },
+    "colors": {
+        "color0": "#0d0a09",
+        "color1": "#965032",
+        "color2": "#A15227",
+        "color3": "#D76A26",
+        "color4": "#ED952E",
+        "color5": "#E5A451",
+        "color6": "#E1C35A",
+        "color7": "#aebac4",
+        "color8": "#798289",
+        "color9": "#965032",
+        "color10": "#A15227",
+        "color11": "#D76A26",
+        "color12": "#ED952E",
+        "color13": "#E5A451",
+        "color14": "#E1C35A",
+        "color15": "#aebac4"
+    }
+}
