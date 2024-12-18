@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/shared/Wallpapers/netero2.jpg",
+    "alpha": "90",
+    "special": {
+        "background": "#079E09",
+        "foreground": "#b798b5",
+        "cursor": "#b798b5"
+    },
+    "colors": {
+        "color0": "#079E09",
+        "color1": "#40073E",
+        "color2": "#41FC3E",
+        "color3": "#4F544C",
+        "color4": "#5E635B",
+        "color5": "#6D5D6A",
+        "color6": "#783E79",
+        "color7": "#b798b5",
+        "color8": "#806a7e",
+        "color9": "#40073E",
+        "color10": "#41FC3E",
+        "color11": "#4F544C",
+        "color12": "#5E635B",
+        "color13": "#6D5D6A",
+        "color14": "#783E79",
+        "color15": "#b798b5"
+    }
+}

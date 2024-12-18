@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/shared/Wallpapers/windows4.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#060111",
+        "foreground": "#dcaaba",
+        "cursor": "#dcaaba"
+    },
+    "colors": {
+        "color0": "#060111",
+        "color1": "#734679",
+        "color2": "#DE7D7D",
+        "color3": "#481584",
+        "color4": "#691098",
+        "color5": "#8E269F",
+        "color6": "#A7549B",
+        "color7": "#dcaaba",
+        "color8": "#9a7682",
+        "color9": "#734679",
+        "color10": "#DE7D7D",
+        "color11": "#481584",
+        "color12": "#691098",
+        "color13": "#8E269F",
+        "color14": "#A7549B",
+        "color15": "#dcaaba"
+    }
+}

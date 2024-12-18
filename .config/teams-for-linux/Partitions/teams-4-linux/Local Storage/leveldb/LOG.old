@@ -1,0 +1,35 @@
+2024/10/27-18:09:50.322 64ac Creating DB /home/yaros/.config/teams-for-linux/Partitions/teams-4-linux/Local Storage/leveldb since it was missing.
+2024/10/27-18:09:50.331 64ac Reusing MANIFEST /home/yaros/.config/teams-for-linux/Partitions/teams-4-linux/Local Storage/leveldb/MANIFEST-000001
+2024/10/27-18:10:17.228 64ad Level-0 table #5: started
+2024/10/27-18:10:17.251 64ad Level-0 table #5: 326042 bytes OK
+2024/10/27-18:10:17.259 64ad Delete type=0 #3
+2024/10/27-18:12:33.801 64ad Level-0 table #7: started
+2024/10/27-18:12:33.808 64ad Level-0 table #7: 46073 bytes OK
+2024/10/27-18:12:33.813 64ad Delete type=0 #4
+2024/10/27-18:13:35.678 64ad Level-0 table #9: started
+2024/10/27-18:13:35.698 64ad Level-0 table #9: 500813 bytes OK
+2024/10/27-18:13:35.703 64ad Delete type=0 #6
+2024/10/27-18:14:53.135 64ac Level-0 table #11: started
+2024/10/27-18:14:53.139 64ac Level-0 table #11: 55248 bytes OK
+2024/10/27-18:14:53.144 64ac Delete type=0 #8
+2024/10/27-18:17:53.135 64ad Level-0 table #13: started
+2024/10/27-18:17:53.139 64ad Level-0 table #13: 61783 bytes OK
+2024/10/27-18:17:53.143 64ad Delete type=0 #10
+2024/10/27-18:18:53.137 64ad Level-0 table #15: started
+2024/10/27-18:18:53.144 64ad Level-0 table #15: 82199 bytes OK
+2024/10/27-18:18:53.149 64ad Delete type=0 #12
+2024/10/27-18:18:53.149 64ad Compacting 4@0 + 1@1 files
+2024/10/27-18:18:53.203 64ad Generated table #16@0: 115 keys, 544110 bytes
+2024/10/27-18:18:53.203 64ad Compacted 4@0 + 1@1 files => 544110 bytes
+2024/10/27-18:18:53.207 64ad compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/27-18:18:53.208 64ad Delete type=2 #9
+2024/10/27-18:18:53.208 64ad Delete type=2 #7
+2024/10/27-18:18:53.209 64ad Delete type=2 #11
+2024/10/27-18:18:53.209 64ad Delete type=2 #13
+2024/10/27-18:18:53.209 64ad Delete type=2 #15
+2024/10/27-18:23:53.135 64ad Level-0 table #18: started
+2024/10/27-18:23:53.140 64ad Level-0 table #18: 105941 bytes OK
+2024/10/27-18:23:53.144 64ad Delete type=0 #14
+2024/10/27-18:28:53.136 64ad Level-0 table #20: started
+2024/10/27-18:28:53.146 64ad Level-0 table #20: 105942 bytes OK
+2024/10/27-18:28:53.152 64ad Delete type=0 #17

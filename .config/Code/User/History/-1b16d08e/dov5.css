@@ -1,0 +1,7 @@
+/* Change background color of the New Tab page */
+@-moz-document url("about:newtab") {
+    body {
+      background-color: #ffeb3b !important;
+    }
+  }
+  

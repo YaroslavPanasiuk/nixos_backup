@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/shared/Wallpapers/kakashi2.jpg",
+    "alpha": "90",
+    "special": {
+        "background": "#0E070E",
+        "foreground": "#c0aebb",
+        "cursor": "#c0aebb"
+    },
+    "colors": {
+        "color0": "#0E070E",
+        "color1": "#DD3D2C",
+        "color2": "#E03D2C",
+        "color3": "#A53C40",
+        "color4": "#E6615C",
+        "color5": "#3D688A",
+        "color6": "#69678A",
+        "color7": "#c0aebb",
+        "color8": "#867982",
+        "color9": "#DD3D2C",
+        "color10": "#E03D2C",
+        "color11": "#A53C40",
+        "color12": "#E6615C",
+        "color13": "#3D688A",
+        "color14": "#69678A",
+        "color15": "#c0aebb"
+    }
+}

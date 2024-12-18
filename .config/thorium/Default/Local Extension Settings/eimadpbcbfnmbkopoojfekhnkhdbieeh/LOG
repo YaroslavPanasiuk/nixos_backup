@@ -1,0 +1,18 @@
+2024/11/14-14:11:52.162 10343 Reusing MANIFEST /home/yaros/.config/thorium/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/MANIFEST-000001
+2024/11/14-14:11:52.167 10343 Recovering log #47
+2024/11/14-14:11:52.193 10343 Reusing old log /home/yaros/.config/thorium/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/000047.log 
+2024/11/14-14:12:06.226 10342 Level-0 table #51: started
+2024/11/14-14:12:06.301 10342 Level-0 table #51: 1651572 bytes OK
+2024/11/14-14:12:06.312 10342 Delete type=0 #47
+2024/11/14-14:18:23.710 10343 Level-0 table #53: started
+2024/11/14-14:18:23.748 10343 Level-0 table #53: 1673248 bytes OK
+2024/11/14-14:18:23.758 10343 Delete type=0 #50
+2024/11/14-14:18:23.761 10343 Compacting 4@0 + 1@1 files
+2024/11/14-14:18:23.789 10343 Generated table #54@0: 2 keys, 29924 bytes
+2024/11/14-14:18:23.789 10343 Compacted 4@0 + 1@1 files => 29924 bytes
+2024/11/14-14:18:23.795 10343 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/14-14:18:23.796 10343 Delete type=2 #53
+2024/11/14-14:18:23.796 10343 Delete type=2 #51
+2024/11/14-14:18:23.796 10343 Delete type=2 #45
+2024/11/14-14:18:23.796 10343 Delete type=2 #43
+2024/11/14-14:18:23.797 10343 Delete type=2 #48

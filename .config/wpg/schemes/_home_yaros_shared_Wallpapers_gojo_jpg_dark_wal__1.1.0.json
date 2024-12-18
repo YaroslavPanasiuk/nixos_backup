@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/shared/Wallpapers/gojo.jpg",
+    "alpha": "90",
+    "special": {
+        "background": "#120d19",
+        "foreground": "#d29cce",
+        "cursor": "#d29cce"
+    },
+    "colors": {
+        "color0": "#120d19",
+        "color1": "#6D219C",
+        "color2": "#213BD9",
+        "color3": "#1D3FE8",
+        "color4": "#1A41ED",
+        "color5": "#2240E4",
+        "color6": "#922698",
+        "color7": "#d29cce",
+        "color8": "#936d90",
+        "color9": "#6D219C",
+        "color10": "#213BD9",
+        "color11": "#1D3FE8",
+        "color12": "#1A41ED",
+        "color13": "#2240E4",
+        "color14": "#922698",
+        "color15": "#d29cce"
+    }
+}

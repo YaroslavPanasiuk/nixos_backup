@@ -1,0 +1,39 @@
+2024/11/11-22:09:07.778 bdd Reusing MANIFEST /home/yaros/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii/MANIFEST-000001
+2024/11/11-22:09:07.779 bdd Recovering log #229
+2024/11/11-22:09:07.780 bdd Reusing old log /home/yaros/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii/000229.log 
+2024/11/11-22:09:18.552 bcd Level-0 table #233: started
+2024/11/11-22:09:18.700 bcd Level-0 table #233: 4320641 bytes OK
+2024/11/11-22:09:18.708 bcd Delete type=0 #229
+2024/11/11-22:10:19.955 bcd Level-0 table #235: started
+2024/11/11-22:10:19.980 bcd Level-0 table #235: 4464361 bytes OK
+2024/11/11-22:10:19.985 bcd Delete type=0 #232
+2024/11/11-22:10:24.057 bcd Level-0 table #237: started
+2024/11/11-22:10:24.161 bcd Level-0 table #237: 4501405 bytes OK
+2024/11/11-22:10:24.166 bcd Delete type=0 #234
+2024/11/11-22:10:24.178 bcc Compacting 4@0 + 3@1 files
+2024/11/11-22:10:24.230 bcc Generated table #238@0: 6 keys, 2385840 bytes
+2024/11/11-22:10:24.306 bcc Generated table #239@0: 8 keys, 2709871 bytes
+2024/11/11-22:10:24.393 bcc Generated table #240@0: 4 keys, 2472837 bytes
+2024/11/11-22:10:24.521 bcc Generated table #241@0: 2 keys, 4501405 bytes
+2024/11/11-22:10:24.548 bcc Generated table #242@0: 10 keys, 1120279 bytes
+2024/11/11-22:10:24.549 bcc Compacted 4@0 + 3@1 files => 13190232 bytes
+2024/11/11-22:10:24.553 bcc compacted to: files[ 0 5 5 0 0 0 0 ]
+2024/11/11-22:10:24.554 bcc Delete type=2 #237
+2024/11/11-22:10:24.554 bcc Delete type=2 #228
+2024/11/11-22:10:24.554 bcc Delete type=2 #235
+2024/11/11-22:10:24.554 bcc Delete type=2 #227
+2024/11/11-22:10:24.554 bcc Delete type=2 #230
+2024/11/11-22:10:24.554 bcc Delete type=2 #226
+2024/11/11-22:10:24.554 bcc Delete type=2 #233
+2024/11/11-22:10:24.571 bcc Compacting 1@1 + 1@2 files
+2024/11/11-22:10:24.590 bcc Generated table #243@1: 15 keys, 1122213 bytes
+2024/11/11-22:10:24.590 bcc Compacted 1@1 + 1@2 files => 1122213 bytes
+2024/11/11-22:10:24.594 bcc compacted to: files[ 0 4 5 0 0 0 0 ]
+2024/11/11-22:10:24.595 bcc Delete type=2 #145
+2024/11/11-22:10:24.595 bcc Delete type=2 #242
+2024/11/11-22:10:24.596 bcc Compacting 1@1 + 1@2 files
+2024/11/11-22:10:24.640 bcc Generated table #244@1: 6 keys, 2385840 bytes
+2024/11/11-22:10:24.640 bcc Compacted 1@1 + 1@2 files => 2385840 bytes
+2024/11/11-22:10:24.644 bcc compacted to: files[ 0 3 5 0 0 0 0 ]
+2024/11/11-22:10:24.645 bcc Delete type=2 #238
+2024/11/11-22:10:24.645 bcc Delete type=2 #146

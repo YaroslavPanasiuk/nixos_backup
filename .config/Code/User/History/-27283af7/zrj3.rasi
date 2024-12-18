@@ -1,0 +1,95 @@
+configuration {
+  modi:                   "window";
+  display-drun:           "⋗";
+  drun-display-format:    "{name}";
+  font:                   "CaskaydiaCove Nerd Font Mono 13";
+  show-icons:             true;
+}
+
+@theme "~/.cache/wal/colors-rofi.rasi"
+
+* {
+  alt:                    @selected-active-background;
+  rad:                    8px;
+  background-color:       @transparent-background;
+  text-color:             @foreground;
+}
+
+window {  
+  width: 40%;
+
+  border: 2px;
+  border-color: @alt;
+  border-radius: 13px;
+  padding: 0ch;
+}
+
+mainbox {
+    children:               [ listview ];
+    padding:                20px;
+    spacing:                20px;
+
+}
+
+inputbar {
+    display: false;
+}
+
+prompt, entry {
+    display: false;
+}
+
+listview {
+    layout:                 vertical;
+    lines: 5;
+    columns: 5;
+    cycle:                  true;
+}
+
+element {
+    orientation:            vertical;
+    padding:                0px;
+    width: 100px;
+    spacing: 1em;
+    border-radius:          @rad;
+    
+}
+
+element-text { 
+    expand: false; 
+    font: "CaskaydiaCove Nerd Font Mono 10";
+}
+
+scrollbar {
+    width: 0px;
+    border: 0;
+    handle-width: 0px;
+    padding: 0;
+}
+
+element-text, element-icon {
+    horizontal-align:       0.5;
+    background-color:       inherit;
+}
+
+element-text { expand: true; }
+element-icon { size: 50px; }
+
+listview, element, element selected, element-text, element-icon {
+    cursor:                 pointer;
+}
+
+entry {
+    cursor:                 text;
+}
+
+element-text selected {
+    text-color: @background;
+}
+
+element selected{
+    background-color: @selected-urgent-background;
+}
+
+
+   

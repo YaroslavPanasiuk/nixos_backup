@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/Documents/Wallpapers/frieren.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#181a1c",
+        "foreground": "#e1e8ee",
+        "cursor": "#e1e8ee"
+    },
+    "colors": {
+        "color0": "#181a1c",
+        "color1": "#3995CB",
+        "color2": "#5EABEF",
+        "color3": "#73C9FA",
+        "color4": "#9B9FA7",
+        "color5": "#C2CEBB",
+        "color6": "#A6D7F9",
+        "color7": "#e1e8ee",
+        "color8": "#9da2a6",
+        "color9": "#3995CB",
+        "color10": "#5EABEF",
+        "color11": "#73C9FA",
+        "color12": "#9B9FA7",
+        "color13": "#C2CEBB",
+        "color14": "#A6D7F9",
+        "color15": "#e1e8ee"
+    }
+}

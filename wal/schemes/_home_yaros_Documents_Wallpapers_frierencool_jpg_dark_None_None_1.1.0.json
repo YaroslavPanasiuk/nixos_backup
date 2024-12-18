@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/Documents/Wallpapers/frierencool.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e171f",
+        "foreground": "#f1e4d2",
+        "cursor": "#f1e4d2"
+    },
+    "colors": {
+        "color0": "#0e171f",
+        "color1": "#1C618B",
+        "color2": "#6C7686",
+        "color3": "#6D8B8E",
+        "color4": "#A49D9A",
+        "color5": "#CBB7A7",
+        "color6": "#E3CDA6",
+        "color7": "#f1e4d2",
+        "color8": "#a89f93",
+        "color9": "#1C618B",
+        "color10": "#6C7686",
+        "color11": "#6D8B8E",
+        "color12": "#A49D9A",
+        "color13": "#CBB7A7",
+        "color14": "#E3CDA6",
+        "color15": "#f1e4d2"
+    }
+}

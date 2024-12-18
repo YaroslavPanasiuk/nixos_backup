@@ -1,0 +1,6 @@
+2024/12/01-00:52:46.102 770f Reusing MANIFEST /home/yaros/.config/teams-for-linux/Partitions/teams-4-linux/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/12/01-00:52:46.102 770f Recovering log #3
+2024/12/01-00:52:46.125 770f Reusing old log /home/yaros/.config/teams-for-linux/Partitions/teams-4-linux/WebStorage/2/IndexedDB/indexeddb.leveldb/000003.log 
+2024/12/01-00:52:57.659 7710 Level-0 table #5: started
+2024/12/01-00:52:57.714 7710 Level-0 table #5: 2436905 bytes OK
+2024/12/01-00:52:57.722 7710 Delete type=0 #3

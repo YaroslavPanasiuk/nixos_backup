@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/shared/Wallpapers/windows3.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C0D15",
+        "foreground": "#ecc193",
+        "cursor": "#ecc193"
+    },
+    "colors": {
+        "color0": "#0C0D15",
+        "color1": "#90212C",
+        "color2": "#B33128",
+        "color3": "#C15236",
+        "color4": "#CE5030",
+        "color5": "#D86937",
+        "color6": "#E47431",
+        "color7": "#ecc193",
+        "color8": "#a58766",
+        "color9": "#90212C",
+        "color10": "#B33128",
+        "color11": "#C15236",
+        "color12": "#CE5030",
+        "color13": "#D86937",
+        "color14": "#E47431",
+        "color15": "#ecc193"
+    }
+}

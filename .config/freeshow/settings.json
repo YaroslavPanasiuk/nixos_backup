@@ -1,0 +1,176 @@
+{
+	"initialized": true,
+	"outLocked": false,
+	"outputs": {
+		"default": {
+			"enabled": true,
+			"active": true,
+			"name": "Primary",
+			"color": "#F0008C",
+			"bounds": {
+				"x": 0,
+				"y": 0,
+				"width": 1920,
+				"height": 1080
+			},
+			"screen": null,
+			"kiosk": true,
+			"style": "default",
+			"show": {},
+			"out": {
+				"transition": null,
+				"slide": {
+					"id": "108e35ec979",
+					"layout": "4d94b99cd32",
+					"index": 0,
+					"line": 0
+				}
+			}
+		}
+	},
+	"sorted": {},
+	"styles": {},
+	"openedFolders": [
+		"default",
+		"7674c565ed7",
+		"674c565ed74",
+		"74c565ed744",
+		"4c565ed744d",
+		"d744d94b99c"
+	],
+	"alertUpdates": true,
+	"autoOutput": false,
+	"autosave": "never",
+	"timeFormat": "24",
+	"remotePassword": "6072",
+	"ports": {
+		"remote": 5510,
+		"stage": 5511
+	},
+	"disabledServers": {
+		"remote": false,
+		"stage": false
+	},
+	"serverData": {},
+	"maxConnections": 10,
+	"mediaFolders": {
+		"pictures": {
+			"name": "category.pictures",
+			"icon": "folder",
+			"path": "/home/yaros/Pictures",
+			"default": true
+		},
+		"videos": {
+			"name": "category.videos",
+			"icon": "folder",
+			"path": "/home/yaros/Videos",
+			"default": true
+		}
+	},
+	"audioFolders": {
+		"music": {
+			"name": "category.music",
+			"icon": "folder",
+			"path": "/home/yaros/Music",
+			"default": true
+		}
+	},
+	"playerVideos": {
+		"chosen": {
+			"name": "The Chosen Trailer",
+			"type": "youtube",
+			"id": "X-AJdKty74M"
+		},
+		"jesus": {
+			"name": "Jesus, Only Jesus",
+			"type": "vimeo",
+			"id": "426363743"
+		}
+	},
+	"resized": {
+		"leftPanel": 290,
+		"rightPanel": 290,
+		"leftPanelDrawer": 290,
+		"rightPanelDrawer": 290
+	},
+	"slidesOptions": {
+		"columns": 4,
+		"mode": "grid"
+	},
+	"mediaOptions": {
+		"columns": 5,
+		"mode": "grid"
+	},
+	"drawerTabsData": {
+		"shows": {
+			"activeSubTab": "all",
+			"enabled": true
+		}
+	},
+	"drawer": {
+		"height": 300,
+		"stored": null
+	},
+	"labelsDisabled": false,
+	"groupNumbers": true,
+	"fullColors": false,
+	"formatNewShow": true,
+	"dataPath": "/home/yaros/shared/FreeShow",
+	"lockedOverlays": [],
+	"splitLines": 0,
+	"videoExtensions": [
+		"mp4",
+		"mov",
+		"wmv",
+		"avi",
+		"avchd",
+		"flv",
+		"mkv",
+		"webm",
+		"mpeg",
+		"m4v"
+	],
+	"imageExtensions": [
+		"tif",
+		"tiff",
+		"bmp",
+		"jpg",
+		"jpeg",
+		"gif",
+		"png",
+		"eps",
+		"jfif",
+		"webp",
+		"avif"
+	],
+	"theme": "default",
+	"transitionData": {
+		"text": {
+			"type": "fade",
+			"duration": 500,
+			"easing": "sine"
+		},
+		"media": {
+			"type": "fade",
+			"duration": 800,
+			"easing": "sine"
+		}
+	},
+	"volume": 1,
+	"gain": 1,
+	"driveData": {
+		"mainFolderId": null,
+		"disabled": false,
+		"initializeMethod": null,
+		"disableUpload": false
+	},
+	"calendarAddShow": "",
+	"metronome": {},
+	"bibleApiKey": "",
+	"special": {
+		"capitalize_words": "Jesus, Lord"
+	},
+	"activeProject": "7674c565ed7",
+	"showsPath": "/home/yaros/shared/FreeShow/Shows",
+	"language": "en"
+}

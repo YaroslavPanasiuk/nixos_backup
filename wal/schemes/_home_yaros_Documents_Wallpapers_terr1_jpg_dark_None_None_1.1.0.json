@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/Documents/Wallpapers/terr1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0D0819",
+        "foreground": "#c7a7c2",
+        "cursor": "#c7a7c2"
+    },
+    "colors": {
+        "color0": "#0D0819",
+        "color1": "#693353",
+        "color2": "#65486C",
+        "color3": "#9A345B",
+        "color4": "#9D4F63",
+        "color5": "#C44653",
+        "color6": "#715A8A",
+        "color7": "#c7a7c2",
+        "color8": "#8b7487",
+        "color9": "#693353",
+        "color10": "#65486C",
+        "color11": "#9A345B",
+        "color12": "#9D4F63",
+        "color13": "#C44653",
+        "color14": "#715A8A",
+        "color15": "#c7a7c2"
+    }
+}

@@ -1,0 +1,20 @@
+2024/11/14-14:11:59.986 10344 Reusing MANIFEST /home/yaros/.config/thorium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/14-14:11:59.989 10344 Recovering log #220
+2024/11/14-14:12:00.001 10344 Reusing old log /home/yaros/.config/thorium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000220.log 
+2024/11/14-14:13:48.253 10343 Level-0 table #229: started
+2024/11/14-14:13:48.310 10343 Level-0 table #229: 1150770 bytes OK
+2024/11/14-14:13:48.323 10343 Delete type=0 #220
+2024/11/14-14:13:49.142 10343 Compacting 1@1 + 5@2 files
+2024/11/14-14:13:49.241 10343 Generated table #230@1: 2699 keys, 2143501 bytes
+2024/11/14-14:13:49.367 10343 Generated table #231@1: 1129 keys, 2137280 bytes
+2024/11/14-14:13:49.542 10343 Generated table #232@1: 859 keys, 2128014 bytes
+2024/11/14-14:13:49.670 10343 Generated table #233@1: 793 keys, 2129603 bytes
+2024/11/14-14:13:49.840 10343 Generated table #234@1: 6111 keys, 1822570 bytes
+2024/11/14-14:13:49.841 10343 Compacted 1@1 + 5@2 files => 10360968 bytes
+2024/11/14-14:13:49.846 10343 compacted to: files[ 0 0 5 0 0 0 0 ]
+2024/11/14-14:13:49.848 10343 Delete type=2 #224
+2024/11/14-14:13:49.848 10343 Delete type=2 #223
+2024/11/14-14:13:49.849 10343 Delete type=2 #222
+2024/11/14-14:13:49.849 10343 Delete type=2 #229
+2024/11/14-14:13:49.850 10343 Delete type=2 #225
+2024/11/14-14:13:49.850 10343 Delete type=2 #226

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/shared/Wallpapers/itachi1.jpg",
+    "alpha": "90",
+    "special": {
+        "background": "#09080a",
+        "foreground": "#d0cdc1",
+        "cursor": "#d0cdc1"
+    },
+    "colors": {
+        "color0": "#09080a",
+        "color1": "#9E2A2E",
+        "color2": "#E81F28",
+        "color3": "#FE1A27",
+        "color4": "#7F8171",
+        "color5": "#8F8978",
+        "color6": "#A59F8C",
+        "color7": "#d0cdc1",
+        "color8": "#918f87",
+        "color9": "#9E2A2E",
+        "color10": "#E81F28",
+        "color11": "#FE1A27",
+        "color12": "#7F8171",
+        "color13": "#8F8978",
+        "color14": "#A59F8C",
+        "color15": "#d0cdc1"
+    }
+}

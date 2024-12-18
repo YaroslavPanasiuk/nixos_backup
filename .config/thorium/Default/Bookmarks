@@ -1,0 +1,173 @@
+{
+   "checksum": "01af99e78465f0b03ca3ff4ecb430857",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13371572735653110",
+            "date_last_used": "13371732443896079",
+            "guid": "0557da17-6d94-4005-9f93-7238cacbb343",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Proton Mail",
+            "type": "url",
+            "url": "https://mail.proton.me/u/0/inbox"
+         }, {
+            "date_added": "13347211048393909",
+            "date_last_used": "13374528655047441",
+            "guid": "ee796dae-753c-47ee-a4c2-39f33a8dd2ed",
+            "id": "5",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13274810046326457",
+            "date_last_used": "13331579767348200",
+            "guid": "98456a79-4264-4794-939a-b0fbbb91ba08",
+            "id": "8",
+            "name": "Мій диск – Google Диск",
+            "type": "url",
+            "url": "https://drive.google.com/drive/my-drive"
+         }, {
+            "date_added": "13267701749372257",
+            "date_last_used": "13347042127384269",
+            "guid": "ec63ae1e-8aac-491b-b9c8-9fe207de6971",
+            "id": "10",
+            "name": "Moodle LNU",
+            "type": "url",
+            "url": "https://e-learning.lnu.edu.ua/"
+         }, {
+            "date_added": "13267701802865842",
+            "date_last_used": "13347211351845823",
+            "guid": "31f721bf-9c36-4bd7-a85a-e4c543dce0c1",
+            "id": "11",
+            "name": "Moodle electronics",
+            "type": "url",
+            "url": "https://moodle.elct.lnu.edu.ua/my/"
+         }, {
+            "date_added": "13268603181845557",
+            "date_last_used": "13346930360958594",
+            "guid": "758162b6-2974-47f8-93e2-e024b704d594",
+            "id": "12",
+            "name": "YaroslavPanasiuk",
+            "type": "url",
+            "url": "https://github.com/YaroslavPanasiuk"
+         }, {
+            "date_added": "13304780534373193",
+            "date_last_used": "13351873688005884",
+            "guid": "f44d1559-a8b5-4467-a99e-19782381996f",
+            "id": "13",
+            "name": "Лідер – Campus Ukraine",
+            "type": "url",
+            "url": "http://multiply.ufcmission.org/home/process/leader/"
+         }, {
+            "date_added": "13342562786847129",
+            "date_last_used": "13371591895580023",
+            "guid": "556d6bc9-77c2-4e5b-a07b-fa47ed8bc453",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YaroslavPanasiuk - LeetCode Profile",
+            "type": "url",
+            "url": "https://leetcode.com/YaroslavPanasiuk/"
+         }, {
+            "date_added": "13371579974776168",
+            "date_last_used": "13374531986207796",
+            "guid": "1e685207-735c-4347-b754-5521798f001f",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "DeepL",
+            "type": "url",
+            "url": "https://www.deepl.com/en/translator"
+         }, {
+            "date_added": "13371580337873355",
+            "date_last_used": "13371814207038953",
+            "guid": "df5e40cc-0e70-483b-b6fa-4c1bc0722e7b",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "NixOS Packages",
+            "type": "url",
+            "url": "https://search.nixos.org/packages"
+         }, {
+            "date_added": "13371584613317041",
+            "date_last_used": "0",
+            "guid": "fa83f861-42be-4638-88bc-d9a242d78297",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://chatgpt.com/"
+         }, {
+            "date_added": "13374529082567188",
+            "date_last_used": "13374576214287836",
+            "guid": "dc76fdb0-450f-48aa-ba7e-6ad10ac98bae",
+            "id": "33",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Teams",
+            "type": "url",
+            "url": "https://teams.microsoft.com/v2/"
+         } ],
+         "date_added": "13371570723708430",
+         "date_last_used": "0",
+         "date_modified": "13374529082567188",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13341922491389920",
+            "date_last_used": "0",
+            "guid": "84da401a-ac6c-4935-9e50-1da07f9d87b6",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "send",
+            "type": "url",
+            "url": "https://docs.python-telegram-bot.org/en/v13.8/telegram.callbackquery.html"
+         }, {
+            "date_added": "13342175031230738",
+            "date_last_used": "0",
+            "guid": "af83e5a9-e108-499b-ab22-18f89c2a9794",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "English Club 2023 fall #2 - Google Таблиці",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/1PgGrNWxmt1BDjv0Z7CW9p2xFhieMnCZHhUKmTlXrZfY/edit#gid=894838760"
+         } ],
+         "date_added": "13371570723708434",
+         "date_last_used": "0",
+         "date_modified": "13371572735653110",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13371570723708436",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CmEKQQiIgQISOyAAkgE2CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCdLX1LPYJQYAEdLX1LPYJQYAKYXp1LPYJQYAEgAqGCtwYnpNOTM2VHdRUTVaUi9wQjcvMVE9PUgDEuwBCBgS5wEKHGgweVY2enoyRFdnOGdKY2VZQnQyajExMTRwQT0SZlo6QURxdEFad3VvaU5JZGhGS1JtazVUV0hXMkREUzF5aEZ4MEtoNDJjd1FHQWsxRmpOVmpNNFV3NG1hbHN0MjZZWmhkM1M0SHJxOGRmZFpWTkIra0lOZERhQ1k3OEdwUDR4bFE9PRgAIA8oDzDuzfvW7N2IAzilzYX5oTJA166axaIyShwxc3JFaWN6WTBGbUw2RG5qLzlQRitqby92R2M9Wh8iHSB0MndoMlEzWkw2T20zUjNUS01oTTRyWXY0Rms9ZTp3hyUSrQIIDBKoAgocVFZaUEoyMVMwVHdwckZnVXNDMkY4b1YzNlp3PRKmAVo6QURxdEFaeHdsQkFsNXlKWVc0aklkVjJsbUp1WGVhYTVZcnU0bDNNUW9hZk8vdjlCYlFad3Zra3FBVjNRZHVwVnhiY2NaSHhDVytXR0ZhYitsbWtYRllSY0RSWmQxV0hEcVBGcDJmNlhDZG9IZUR0VHRtTS81TmZnM1QyTVVSN2N3eE12c3Qra1hzU1dpUVBOU1ZuSUxFYTBuYzVtQTc5cDJnPT0YACABKAEw1efytpuziQM4luaqraIvQKGd6rutMkocdnN0WHhsY3FyTlZaTFhkcHNObGpPbFR4cDRZPVofIh33QUVad2tlRm9NdXgweFhGd3RLZXVOaVhhQmNNPWXI8z+7EsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeVBiWU11SVorejVvbVlWUTh6aGJ3Z0JBOFdmc29FSm85N20xZVV2RnUzL2F0SEFrS1VJbHh0ZFNjWGRJS3NsOTAzR3ZDNDlDZ2J2QVdtTGhnUTlGQ0NwTWdXR3c9PRgAIAAoADCL5++uktmIAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEu0BCBkS6AEKHHpEK0JIUWdENW1rL3pXUk50V1o4Z1AzZUpOQT0SZlo6QURxdEFad3VvaU5JZGhGS1JtazVUV0hXMkREU0VKTnJkanZHQ2EzR0tQcTZBN2RiMUNDZ3AwY2tmL1JNbzVydmZSUmZNbFlsdHRic1gwaXNpQnR3blJrWWs4dExqMDJZQkE9PRgAIAMoAzCjz4rVtNmIAzj4uL/8oTJA0IHA/KEyShxnZENkODNQOGgzb29pRGQ1ZFM1WHoyQzllTWs9WiAiHv/+bW13SXFiajYzV0VCMllYYmp0QlJNSUk0U1Y4PWUYdM+lEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFad3dTTHRGa2hwbEhScUpobU5zS08xa0pMc2N0SEVZYm5CSTExT2NtSXk0SExHRko5QWUyQ3BRYWZUcjBUeHBQdEFjNTlScFpaa2F4a242VFowTTltR2piQVhBaXc9PRgAIAAoADCL5++uktmIAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEusBCBYS5gEKHFJGUnpFck9ZcTNqenZmYzFtUzZGZGE3T3B2VT0SZlo6QURxdEFad3VvaU5JZGhGS1JtazVUV0hXMkREU0RJWVZDdkprV3ZuK3BSNUptM3Z6TmtrV09XQ3JiQVU0OGl3WEZRSnk1cUk2ZFV1dkdJdHhZaWQrWklFMmJtaDA0U0pyWWc9PRgAIAAoADDQ8f7zofqBAzj+p9q+szFA/qfavrMxShxjM3VoVTNvTUdGQmxRV1M4akZRNUYzTjU4SXM9Wh4iHFBLR2FQb0ZPUnBma3BmL2c4M2doN1NncWFFST1lKuP9aBLsAQgXEucBChxxM29kTDVqKzdlTUlvZTBoZXRUdzJNcGNzUFU9EmZaOkFEcXRBWnd1b2lOSWRoRktSbWs1VFdIVzJERFNqNmJuTWYzWFp6R1E2amR3V0VrU21hV1Jyell4SVZLSzNkbUdWU3F4N2ZtYTZXb1F6SHZJdE5uQTJGd0hEM2JXRWFUUlZnPT0YACAAKAAw5fqDgaSOggM4wI+Qt7QxQMCPkLe0MUocNm1EVXRwNUVRVFRKbmlUc05SYVN1cTdnUXljPVofIh2oQVlTNW9CdGdDMDQxbkJmbjh5UUR3aWtJazRFPWW5Km7eEq0CCAsSqAIKHGozZ0RBOURuQVM3bllSWEV3UUF0aEFHWDZmND0SpgFaOkFEcXRBWnh3bEJBbDV5SllXNGpJZFYybG1KdVhlYWE1WXJ1NGwzTVFvYWZPL3Y5QmJjZFBJbDBZeVdFTFloa3c0SlAxZmtMb3NvaEg0Y2R2ck95MXBpQlZ3S0tjQ3JMWHAvUnFRUkl6M1BKU01vR0xaaVFackhzYTN4bGJBWWNZVXZMZmQ0bmtFZFdtKzhOSXFKQ282bnpLTHlJQXpiRkNBZz09GAAgACgAMOW7tMOClYUDOPL+wv+eL0Dy/sL/ni9KHDdVTjV5T0FDSTBjOGJNbzZjRkw4bVd6RDR6Yz1aHyId701JNC9GV213Mmt4Nms1QmRQVFVFUElOUDhBVT1l55kTdBLtAQgcEugBChxwRmh4dnk1WXV6ZkNQSk5pRGtCZVlLOTFENnM9EmZaOkFEcXRBWnd1b2lOSWRoRktSbWs1VFdIVzJERFNwejE2YTRmN1MwelhicEpaWjNOYTE5T0FqTWplQUlhbGpuRWszSm5BcU5FaTgwRktOWDlzMkVYYytXOThvVnpxZTVMZFFBPT0YACADKAMw9dKN9sXZiAM4xcfa/qEyQKLi2v6hMkocZFBPZ05KVE9aNjJNYVI5cW1rbHpSL08xaUdvPVogIh7//2ZLcXJtQUxUeHRPdWtWakllQkg4azQ3WmoxOD1lk70zsBKtAggKEqgCChxjLzRzWXNxR2dLRnZJU3JNOGN4ZGxPekdYNkk9EqYBWjpBRHF0QVp4d2xCQWw1eUpZVzRqSWRWMmxtSnVYZWFhNVlydTRsM01Rb2FmTy92OUJiY3BlWnF3dmNuMHVYQ2VmS1FGSzBVTmowTXVMdXZHOVNadFlLcU92Vk8vL2lUWjJiNE8rMzMvVDR5OGtNTWo4QUJsNllYVE0zRVo0Smg3RFhkVXNkNVc1SkFhZ05oMUdESzRVL04xcEMzNWo4dGM3NUE9PRgAIAAoADClkbXVl5SDAzj93L//ni9A/dy//54vShxiTVcvdi9VWEhZY0FlbDIzOXB0VVJoeFhjd2c9Wh8iHd44UXVRdCtkQkpVdys2QmdzeGRnR09mU2NqRGM9ZeeZE3QS7AEIDRLnAQocZ2cvS0J3VGFzbXZvaWRCSFMzL0hOQWplbG9BPRJmWjpBRHF0QVp3dW9pTklkaEZLUm1rNVRXSFcyRERTSFZKQVV6Zm5ucXZOd0tidTI0SzNQM1NUcFUzb2hlTldGN2lTZnFyZjl0Yk5PaExiQVduK0JyVGhQWWdGTml1UW5RdlhDdz09GAAgACgAMN/cvsir+4QDOOaUhZCpMEDmlIWQqTBKHHcySUlWdFVXV2pUMVRPbjRYcWRNd1hINzBxVT1aHyId/25WcDE4TlpOakc2TzlydlNCaUZJVjJ6MjZVRT1l2p/3OBKsAggFEqcCChx5d3NyL3ZSM2FNR1ZuV2pQTEdoTUJjNytyMzQ9EqYBWjpBRHF0QVp4d2xCQWw1eUpZVzRqSWRWMmxtSnVYMVlqYlM1TVpCZHJacXQwTHhzS2kwZFI4WTFzOGFOVUVMTTZtTGRpa1VwSmQrNk1lOEszYk5wcG9iV2JIQjV3NWZLbVBBSUZTSE9RdmJsdWFJNzNKZkhRZnlzbGMxdDhjanIzSEEzaXh4ME56QUU1YjZwb01FWnQyQzd2ZzBFalY2KzFGOEE9PRgAIAAoADCj1NiYmJSDAzjmrZ+QzC5A5q2fkMwuShxkMmVSditJTy9KN1FSQ3JqUzQ1U3lsaFhxaTA9Wh4iHEFFMERRRlN1Z3RYZmxNSm9XVC9aVTl6MXBpTT1lmz2FthLtAQgaEugBChw4YXlqaGJqaHgxdVVxNUlnaWh6R2NSWmRic1E9EmZaOkFEcXRBWnd1b2lOSWRoRktSbWs1VFdIVzJERFNSSXRlYnl4OFpVTDB5anh5T3QxYzlLRzZsOVgzNFJzcWVGRFRLVk95OUpteHZvQVE0RDBzRTlMang0QVA1Z2ViTmJmYyt3PT0YACADKAMwi+L3grbZiAM40c3V/KEyQPSh1vyhMkocQ0hlMHFQWnhJSk8ya243YU96OWsvMDNFUVIwPVogIh7//zhPVURkOXlvR1ZxVXBIbHBaOXNNTjBXbmF3MD1lcVoG3hLsAQgIEucBChxpRFJUSXpHeGFYdW5nckFvd1Zxakw0M2hJTjA9EmZaOkFEcXRBWnd1b2lOSWRoRktSbWs1VFdIVzJERFN2U2t1OXZ1SS81c0VKSFo0djRQMGljd2RHUzQydndXWWNFZTM3R01GZjd4OTIvc2pRQ1RiMnlZWWZTWFlqRS9ndHRpYTd3PT0YACAAKAAwpZG11ZeUgwM4+N7/vLkvQPje/7y5L0ocNFRYNWhQTnNyKzNjZWRkUWt5a0E1SmV4TXZzPVofIh2rZmJwNWNhWkpZaE82Z2g3d3JseFBYOG8vbUQwPWX6kd7bEu4BCCES6QEKHG5DelZ3MGVwYUxUbjZHclBIcEc3a1BoY1dVZz0SZlo6QURxdEFad3VvaU5JZGhGS1JtazVUV0hXMkREUzBCajlhUFd5WEJRNUFUSHhmNXYwd0F0YWRSSXI0ZFFlRlRwVHgwTG9jRVRoTUNZR0N0OFhxT3ExN2lKWEdVZ0toZm5sVXc9PRgAIAMoAzD5xJP4nq+JAzjH2d76rDJAhZDf+qwyShxMZmRaVG14cDB6SHlDMzdubTJsMDlqcnZDWHc9WiEiH///7FNlWThFSEF5OWxzNEpDTTlVYUM3NTJUWlFLYz1lwKL9XhLtAQgQEugBChxkajVHWG5oZWN0WUhiNitCZ2VtQ3E0R09JWEU9EmZaOkFEcXRBWnd1b2lOSWRoRktSbWs1VFdIVzJERFN3Y0dPRERDU1RNSUtvRVZrRFZlZVF3bUlwM0V0UlhtaWc2bmdYNUl2UWJrMkRieHdsQWsvYTl4RjNtN0ZvZTNLeWNTTTR3PT0YACAAKAAwpZG11ZeUgwM4n+yC8LUxQJ/sgvC1MUocS2hiRlcvRWVNc3p3aTJqYUdqZGJLdjFhOTVRPVogIh7//TIra3ZQWnhlcmE1TEw5ZkgvQThzUlJxT0Zkdz1lpic92xKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWnlBRHpyTnluZmdtV1QzQkFUbjlvNDZMTUlyVXNqKzB3N0R1aW5DVjhJQTdVVzVJUUlRVFMvL0xFM0FCQUNyTTRENU5VRk8YACAAKAAwi+fvrpLZiAM4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAADABOAA=",
+   "version": 1
+}

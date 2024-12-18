@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/shared/Wallpapers/dabi4.jpg",
+    "alpha": "90",
+    "special": {
+        "background": "#010002",
+        "foreground": "#cfd5de",
+        "cursor": "#cfd5de"
+    },
+    "colors": {
+        "color0": "#010002",
+        "color1": "#946D98",
+        "color2": "#3D8CB5",
+        "color3": "#10A7E2",
+        "color4": "#5AAFD8",
+        "color5": "#0FDAF7",
+        "color6": "#58CDE7",
+        "color7": "#cfd5de",
+        "color8": "#90959b",
+        "color9": "#946D98",
+        "color10": "#3D8CB5",
+        "color11": "#10A7E2",
+        "color12": "#5AAFD8",
+        "color13": "#0FDAF7",
+        "color14": "#58CDE7",
+        "color15": "#cfd5de"
+    }
+}

@@ -1,0 +1,25 @@
+2024/09/25-13:07:33.757 6bb Reusing MANIFEST /home/yaros/.config/thorium/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/25-13:07:33.758 6bb Recovering log #43
+2024/09/25-13:07:33.759 6bb Reusing old log /home/yaros/.config/thorium/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/000043.log 
+2024/09/25-13:07:39.366 6bf Manual compaction at level-0 from '\x00\x12\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/25-13:07:40.273 6bc Level-0 table #48: started
+2024/09/25-13:07:40.276 6bc Level-0 table #48: 1780 bytes OK
+2024/09/25-13:07:40.280 6bc Delete type=0 #43
+2024/09/25-13:07:40.281 6bc Manual compaction at level-0 from '\x00\x13\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at '\x00\x13\x00\x00\x05' @ 404 : 1
+2024/09/25-13:07:40.281 6bc Compacting 1@0 + 1@1 files
+2024/09/25-13:07:40.283 6bc Generated table #49@0: 54 keys, 1067 bytes
+2024/09/25-13:07:40.283 6bc Compacted 1@0 + 1@1 files => 1067 bytes
+2024/09/25-13:07:40.287 6bc compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/25-13:07:40.288 6bc Delete type=2 #48
+2024/09/25-13:07:40.288 6bc Manual compaction at level-0 from '\x00\x13\x00\x00\x05' @ 404 : 1 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/25-13:07:40.301 6bb Level-0 table #51: started
+2024/09/25-13:07:40.304 6bb Level-0 table #51: 805 bytes OK
+2024/09/25-13:07:40.308 6bb Delete type=2 #45
+2024/09/25-13:07:40.308 6bb Delete type=0 #47
+2024/09/25-13:07:40.308 6bb Manual compaction at level-0 from '\x00\x14\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x15\x00\x00\x00' @ 0 : 0; will stop at '\x00\x14\x00\x00\x05' @ 423 : 1
+2024/09/25-13:07:40.308 6bb Compacting 1@0 + 1@1 files
+2024/09/25-13:07:40.311 6bb Generated table #52@0: 54 keys, 1062 bytes
+2024/09/25-13:07:40.311 6bb Compacted 1@0 + 1@1 files => 1062 bytes
+2024/09/25-13:07:40.314 6bb compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/25-13:07:40.315 6bb Delete type=2 #51
+2024/09/25-13:07:40.315 6bb Manual compaction at level-0 from '\x00\x14\x00\x00\x05' @ 423 : 1 .. '\x00\x15\x00\x00\x00' @ 0 : 0; will stop at (end)

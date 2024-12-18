@@ -1,0 +1,20 @@
+2024/12/01-00:52:15.100 770f Reusing MANIFEST /home/yaros/.config/teams-for-linux/Partitions/teams-4-linux/Local Storage/leveldb/MANIFEST-000001
+2024/12/01-00:52:15.101 770f Recovering log #19
+2024/12/01-00:52:15.102 770f Level-0 table #22: started
+2024/12/01-00:52:15.106 770f Level-0 table #22: 65384 bytes OK
+2024/12/01-00:52:15.111 770f Delete type=0 #19
+2024/12/01-00:54:16.955 7710 Level-0 table #25: started
+2024/12/01-00:54:16.973 7710 Level-0 table #25: 349257 bytes OK
+2024/12/01-00:54:16.977 7710 Delete type=0 #23
+2024/12/01-00:54:16.979 7710 Compacting 4@0 + 1@1 files
+2024/12/01-00:54:17.006 7710 Generated table #26@0: 128 keys, 394478 bytes
+2024/12/01-00:54:17.006 7710 Compacted 4@0 + 1@1 files => 394478 bytes
+2024/12/01-00:54:17.012 7710 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/01-00:54:17.013 7710 Delete type=2 #20
+2024/12/01-00:54:17.013 7710 Delete type=2 #18
+2024/12/01-00:54:17.013 7710 Delete type=2 #16
+2024/12/01-00:54:17.013 7710 Delete type=2 #22
+2024/12/01-00:54:17.014 7710 Delete type=2 #25
+2024/12/01-00:56:16.956 7710 Level-0 table #28: started
+2024/12/01-00:56:16.961 7710 Level-0 table #28: 38362 bytes OK
+2024/12/01-00:56:16.966 7710 Delete type=0 #24

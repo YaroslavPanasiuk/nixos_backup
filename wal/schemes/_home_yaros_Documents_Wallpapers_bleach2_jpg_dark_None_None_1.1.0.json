@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/Documents/Wallpapers/bleach2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0815",
+        "foreground": "#f5efc6",
+        "cursor": "#f5efc6"
+    },
+    "colors": {
+        "color0": "#0c0815",
+        "color1": "#B43743",
+        "color2": "#A54E5B",
+        "color3": "#E6585E",
+        "color4": "#F79A69",
+        "color5": "#F2C676",
+        "color6": "#9A7F85",
+        "color7": "#f5efc6",
+        "color8": "#aba78a",
+        "color9": "#B43743",
+        "color10": "#A54E5B",
+        "color11": "#E6585E",
+        "color12": "#F79A69",
+        "color13": "#F2C676",
+        "color14": "#9A7F85",
+        "color15": "#f5efc6"
+    }
+}

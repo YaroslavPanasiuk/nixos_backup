@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/shared/Wallpapers/hisoka.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b030c",
+        "foreground": "#c8e8f2",
+        "cursor": "#c8e8f2"
+    },
+    "colors": {
+        "color0": "#0b030c",
+        "color1": "#2343C2",
+        "color2": "#F50E92",
+        "color3": "#A443A9",
+        "color4": "#41B7D3",
+        "color5": "#9BA4D2",
+        "color6": "#96E6FE",
+        "color7": "#c8e8f2",
+        "color8": "#8ca2a9",
+        "color9": "#2343C2",
+        "color10": "#F50E92",
+        "color11": "#A443A9",
+        "color12": "#41B7D3",
+        "color13": "#9BA4D2",
+        "color14": "#96E6FE",
+        "color15": "#c8e8f2"
+    }
+}

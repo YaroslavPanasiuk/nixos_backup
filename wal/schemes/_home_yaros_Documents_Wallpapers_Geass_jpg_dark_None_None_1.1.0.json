@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/Documents/Wallpapers/Geass.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#12001a",
+        "foreground": "#edd3d5",
+        "cursor": "#edd3d5"
+    },
+    "colors": {
+        "color0": "#12001a",
+        "color1": "#96294D",
+        "color2": "#D69F69",
+        "color3": "#6D2794",
+        "color4": "#AA51AA",
+        "color5": "#CA6AAE",
+        "color6": "#AD53C0",
+        "color7": "#edd3d5",
+        "color8": "#a59395",
+        "color9": "#96294D",
+        "color10": "#D69F69",
+        "color11": "#6D2794",
+        "color12": "#AA51AA",
+        "color13": "#CA6AAE",
+        "color14": "#AD53C0",
+        "color15": "#edd3d5"
+    }
+}

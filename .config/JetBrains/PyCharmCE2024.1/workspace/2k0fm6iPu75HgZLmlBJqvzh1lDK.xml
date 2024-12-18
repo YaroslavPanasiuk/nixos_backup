@@ -1,0 +1,105 @@
+<project version="4">
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JSON">
+      <summary usageCount="1" lastUsed="1722432756913" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="1" lastUsed="1722436367684" />
+    </fileType>
+    <fileType name="Shell Script">
+      <summary usageCount="5" lastUsed="1722432881951" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="4" lastUsed="1722432232723" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>exec-</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/../../../hypr/start.sh" />
+      <option value="$PROJECT_DIR$/../../../hypr/hyprland.conf" />
+      <option value="$PROJECT_DIR$/../../../waybar/launch.sh" />
+      <option value="$PROJECT_DIR$/../../../waybar/modules.json" />
+      <option value="$PROJECT_DIR$/../../../waybar/themeswitcher.sh" />
+      <option value="$PROJECT_DIR$/../../../waybar/toggle.sh" />
+    </changedPaths>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JSON">
+      <summary usageCount="1" lastUsage="1722432756913" />
+    </language>
+    <language id="Shell Script">
+      <summary usageCount="5" lastUsage="1722432881951" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1722436367688" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="4" lastUsage="1722432232728" />
+    </language>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1157" y="465" width="540" height="150" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1722436443537">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1157" y="465" width="540" height="150" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1722436443537" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../../hypr/start.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../hypr/hyprland.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../waybar/launch.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../waybar/modules.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="385" selection-start-line="385" selection-end-line="385" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../waybar/themeswitcher.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../waybar/toggle.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///etc/nixos/configuration.nix">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="110" column="34" lean-forward="true" selection-start-line="110" selection-start-column="34" selection-end-line="110" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

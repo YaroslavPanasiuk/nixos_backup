@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/Documents/Wallpapers/jojo.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1a111c",
+        "foreground": "#77f0e7",
+        "cursor": "#77f0e7"
+    },
+    "colors": {
+        "color0": "#1a111c",
+        "color1": "#502A99",
+        "color2": "#F20CAD",
+        "color3": "#AB49BA",
+        "color4": "#E753B8",
+        "color5": "#4D9EB6",
+        "color6": "#05ECDB",
+        "color7": "#77f0e7",
+        "color8": "#53a8a1",
+        "color9": "#502A99",
+        "color10": "#F20CAD",
+        "color11": "#AB49BA",
+        "color12": "#E753B8",
+        "color13": "#4D9EB6",
+        "color14": "#05ECDB",
+        "color15": "#77f0e7"
+    }
+}

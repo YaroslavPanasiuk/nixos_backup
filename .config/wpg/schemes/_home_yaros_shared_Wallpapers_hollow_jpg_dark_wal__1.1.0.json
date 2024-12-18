@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/shared/Wallpapers/hollow.jpg",
+    "alpha": "90",
+    "special": {
+        "background": "#221409",
+        "foreground": "#ddd4c4",
+        "cursor": "#ddd4c4"
+    },
+    "colors": {
+        "color0": "#221409",
+        "color1": "#728377",
+        "color2": "#F8A612",
+        "color3": "#CFAE51",
+        "color4": "#3571A6",
+        "color5": "#4A7294",
+        "color6": "#379AC0",
+        "color7": "#ddd4c4",
+        "color8": "#9a9489",
+        "color9": "#728377",
+        "color10": "#F8A612",
+        "color11": "#CFAE51",
+        "color12": "#3571A6",
+        "color13": "#4A7294",
+        "color14": "#379AC0",
+        "color15": "#ddd4c4"
+    }
+}

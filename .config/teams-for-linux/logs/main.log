@@ -1,0 +1,167 @@
+[2024-10-27 18:09:47.325] [debug] File logging at /home/yaros/.config/teams-for-linux/logs/main.log with level silly
+[2024-10-27 18:09:47.328] [debug] Console logging enabled with level silly
+[2024-10-27 18:09:47.329] [debug] Logger initialised
+[2024-10-27 18:09:47.329] [debug] configPath: /home/yaros/.config/teams-for-linux
+[2024-10-27 18:09:47.330] [debug] configFile: {}
+[2024-10-27 18:09:47.334] [info]  Running under Wayland, switching to PipeWire...
+[2024-10-27 18:09:50.497] [debug] processArgs: [
+  '/nix/store/iy828c6japqrbw4yi59wys1z8bzrynw3-electron-unwrapped-30.4.0/libexec/electron/electron',
+  '/nix/store/zvy6vcapr3d831dg7dfkgsr17l93lbr2-teams-for-linux-1.9.5/share/teams-for-linux/app.asar'
+]
+[2024-10-27 18:09:50.500] [debug] testing RegExp processArgs false
+[2024-10-27 18:09:50.500] [debug] testing RegExp processArgs false
+[2024-10-27 18:09:50.501] [debug] Testing network using net.request() for https://teams.microsoft.com
+[2024-10-27 18:09:50.505] [debug] Spellchecker is disabled!
+[2024-10-27 18:09:51.750] [debug] Network test successful with method https
+[2024-10-27 18:09:53.510] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:10:02.693] [debug] did-frame-finish-load {} true
+[2024-10-27 18:10:02.694] [debug] did-finish-load
+[2024-10-27 18:10:03.528] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:10:06.708] [debug] did-frame-finish-load {} false
+[2024-10-27 18:10:07.903] [error] assignOnDidFailLoadEventHandler : {} - -3 - 
+[2024-10-27 18:10:08.596] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:10:09.616] [debug] did-frame-finish-load {} true
+[2024-10-27 18:10:09.617] [debug] did-finish-load
+[2024-10-27 18:10:12.187] [debug] did-frame-finish-load {} false
+[2024-10-27 18:10:18.605] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:10:28.608] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:10:35.125] [debug] did-frame-finish-load {} false
+[2024-10-27 18:10:38.612] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:10:48.616] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:10:58.619] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:11:08.622] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:11:18.624] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:11:28.627] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:11:38.630] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:11:48.632] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:11:55.375] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:11:55.778] [debug] did-frame-finish-load {} true
+[2024-10-27 18:11:55.779] [debug] did-finish-load
+[2024-10-27 18:12:00.144] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:12:03.061] [debug] did-frame-finish-load {} true
+[2024-10-27 18:12:03.062] [debug] did-finish-load
+[2024-10-27 18:12:07.381] [debug] Badge count set to '0'
+[2024-10-27 18:12:07.417] [debug] Badge count set to '0'
+[2024-10-27 18:12:10.265] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:12:12.892] [debug] Badge count set to '2'
+[2024-10-27 18:12:14.673] [debug] did-frame-finish-load {} false
+[2024-10-27 18:12:16.306] [debug] Badge count set to '4'
+[2024-10-27 18:12:20.278] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:12:24.722] [debug] Badge count set to '4'
+[2024-10-27 18:12:27.004] [debug] did-frame-finish-load {} false
+[2024-10-27 18:12:28.421] [debug] did-frame-finish-load {} false
+[2024-10-27 18:12:30.286] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:12:33.118] [debug] did-frame-finish-load {} false
+[2024-10-27 18:12:37.105] [debug] did-frame-finish-load {} false
+[2024-10-27 18:12:40.289] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:12:43.294] [debug] did-frame-finish-load {} false
+[2024-10-27 18:12:50.291] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:12:56.491] [debug] Badge count set to '4'
+[2024-10-27 18:13:00.293] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:13:02.473] [debug] Badge count set to '4'
+[2024-10-27 18:13:13.092] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:13:13.939] [debug] Badge count set to '4'
+[2024-10-27 18:13:23.439] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:13:33.450] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:13:43.454] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:13:53.465] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:14:03.484] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:14:13.487] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:14:23.490] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:14:33.493] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:14:43.496] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:14:53.499] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:15:03.503] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:15:13.506] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:15:23.509] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:15:33.511] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:15:43.515] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:15:53.527] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:16:03.529] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:16:13.533] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:16:23.542] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:16:31.260] [debug] Badge count set to '4'
+[2024-10-27 18:16:31.885] [debug] Badge count set to '4'
+[2024-10-27 18:16:32.493] [debug] Badge count set to '4'
+[2024-10-27 18:16:33.025] [debug] Badge count set to '2'
+[2024-10-27 18:16:33.546] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:16:36.749] [debug] Badge count set to '2'
+[2024-10-27 18:16:43.550] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:16:49.416] [debug] Badge count set to '2'
+[2024-10-27 18:16:50.288] [debug] Badge count set to '2'
+[2024-10-27 18:16:53.553] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:17:03.554] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:17:13.557] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:17:23.560] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:17:33.564] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:17:43.567] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:17:53.570] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:18:03.573] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:18:13.576] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:18:23.583] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:18:33.587] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:18:43.591] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:18:53.595] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:19:03.598] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:19:13.602] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:19:23.610] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:19:33.621] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:19:43.624] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:19:53.628] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:20:03.633] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:20:13.636] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:20:23.643] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:20:33.650] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:20:43.656] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:20:53.663] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:21:03.671] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:21:10.587] [debug] window close
+[2024-10-27 18:21:14.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:21:25.669] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:21:36.666] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:21:47.666] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:21:58.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:22:09.666] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:22:20.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:22:31.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:22:42.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:22:53.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:23:04.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:23:15.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:23:26.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:23:37.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:23:48.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:23:59.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:24:10.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:24:20.671] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:24:31.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:24:42.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:24:53.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:25:04.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:25:15.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:25:26.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:25:36.668] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:25:47.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:25:58.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:26:08.671] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:26:19.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:26:30.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:26:40.670] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:26:51.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:27:02.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:27:12.671] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:27:23.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:27:34.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:27:45.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:27:56.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:28:07.681] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:28:18.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:28:29.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:28:40.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:28:51.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:29:02.665] [debug] GetSystemIdleState => IdleTimeout: 300s, IdleTimeoutPollInterval: 10s, ActiveCheckPollInterval: 2s, IdleTime: 0s, IdleState: 'active'
+[2024-10-27 18:29:06.555] [debug] window close
+[2024-10-27 18:29:07.624] [debug] window closed
+[2024-10-27 18:29:07.626] [debug] before-quit
+[2024-10-27 18:29:07.627] [debug] will-quit
+[2024-10-27 18:29:07.630] [debug] quit

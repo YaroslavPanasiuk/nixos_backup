@@ -1,0 +1,25 @@
+[Default Applications]
+x-scheme-handler/tg=org.telegram.desktop.desktop
+text/plain=code.desktop
+application/x-zerosize=code.desktop
+image/png=qimgv.desktop
+application/pdf=firefox.desktop
+application/x-executable=code.desktop
+x-scheme-handler/magnet=userapp-transmission-gtk-Y9UPU2.desktop
+x-scheme-handler/msteams=teams-for-linux.desktop
+x-scheme-handler/tonsite=org.telegram.desktop.desktop
+application/vnd.ms-publisher=code.desktop
+
+[Added Associations]
+x-scheme-handler/tg=org.telegram.desktop.desktop;
+text/plain=sublime2.desktop;code.desktop;
+application/x-zerosize=sublime2.desktop;code.desktop;
+application/x-shellscript=code.desktop;sublime2.desktop;
+image/png=qimgv.desktop;
+video/mlt-playlist=vlc.desktop;
+application/pdf=firefox.desktop;
+inode/directory=vlc.desktop;
+application/x-executable=code.desktop;
+x-scheme-handler/magnet=userapp-transmission-gtk-Y9UPU2.desktop;
+x-scheme-handler/tonsite=org.telegram.desktop.desktop;
+application/vnd.ms-publisher=code.desktop;

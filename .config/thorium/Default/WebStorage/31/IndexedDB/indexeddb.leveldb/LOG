@@ -1,0 +1,6 @@
+2024/10/30-11:33:59.749 2fd6 Creating DB /home/yaros/.config/thorium/Default/WebStorage/31/IndexedDB/indexeddb.leveldb since it was missing.
+2024/10/30-11:33:59.757 2fd6 Reusing MANIFEST /home/yaros/.config/thorium/Default/WebStorage/31/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/10/30-12:11:05.013 2fd7 Level-0 table #5: started
+2024/10/30-12:11:05.021 2fd7 Level-0 table #5: 271129 bytes OK
+2024/10/30-12:11:05.027 2fd7 Delete type=0 #3
+2024/10/30-12:11:05.028 2fd7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

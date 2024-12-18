@@ -1,0 +1,14 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Documents/Projects/statistics_bot/CU_statistics_bot" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/Test_NumPy" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/test" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/test1" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/test2" value="true" />
+        <entry key="$USER_HOME$/shared/Projects/statistics_bot" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

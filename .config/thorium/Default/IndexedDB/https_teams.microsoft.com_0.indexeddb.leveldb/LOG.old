@@ -1,0 +1,36 @@
+2024/10/27-21:42:57.001 aff Reusing MANIFEST /home/yaros/.config/thorium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/27-21:42:57.002 aff Recovering log #82
+2024/10/27-21:42:57.002 aff Reusing old log /home/yaros/.config/thorium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000082.log 
+2024/10/27-21:42:57.003 aff Delete type=2 #75
+2024/10/27-21:42:57.003 aff Delete type=2 #76
+2024/10/27-21:42:57.044 b0a Level-0 table #89: started
+2024/10/27-21:42:57.045 b0a Level-0 table #89: 0 bytes OK
+2024/10/27-21:42:57.049 b0a Delete type=0 #82
+2024/10/27-21:42:57.050 aff Manual compaction at level-0 from '\x00O\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00P\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/27-21:42:57.050 aff Level-0 table #91: started
+2024/10/27-21:42:57.053 aff Level-0 table #91: 221 bytes OK
+2024/10/27-21:42:57.058 aff Delete type=0 #88
+2024/10/27-21:42:57.058 aff Manual compaction at level-0 from '\x00Q\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00R\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/27-21:42:58.397 b09 Compacting 1@1 + 1@2 files
+2024/10/27-21:42:58.479 b09 Generated table #92@1: 7807 keys, 1695344 bytes
+2024/10/27-21:42:58.480 b09 Compacted 1@1 + 1@2 files => 1695344 bytes
+2024/10/27-21:42:58.485 b09 compacted to: files[ 1 2 6 0 0 0 0 ]
+2024/10/27-21:42:58.486 b09 Delete type=2 #86
+2024/10/27-21:42:58.486 b09 Delete type=2 #79
+2024/10/27-21:42:58.493 aff Compacting 1@1 + 4@2 files
+2024/10/27-21:42:58.617 aff Generated table #93@1: 4968 keys, 2147904 bytes
+2024/10/27-21:42:58.703 aff Generated table #94@1: 885 keys, 2140010 bytes
+2024/10/27-21:42:58.747 aff Generated table #95@1: 536 keys, 1278069 bytes
+2024/10/27-21:42:58.748 aff Compacted 1@1 + 4@2 files => 5565983 bytes
+2024/10/27-21:42:58.754 aff compacted to: files[ 1 1 5 0 0 0 0 ]
+2024/10/27-21:43:04.569 aff Compacting 1@1 + 3@2 files
+2024/10/27-21:43:04.641 aff Generated table #96@1: 891 keys, 2141962 bytes
+2024/10/27-21:43:04.724 aff Generated table #97@1: 3768 keys, 2146324 bytes
+2024/10/27-21:43:04.754 aff Generated table #98@1: 4553 keys, 828071 bytes
+2024/10/27-21:43:04.754 aff Compacted 1@1 + 3@2 files => 5116357 bytes
+2024/10/27-21:43:04.761 aff compacted to: files[ 1 0 5 0 0 0 0 ]
+2024/10/27-21:43:04.761 aff Delete type=2 #53
+2024/10/27-21:43:04.762 aff Delete type=2 #72
+2024/10/27-21:43:04.762 aff Delete type=2 #56
+2024/10/27-21:43:04.762 aff Delete type=2 #84
+2024/10/27-21:43:04.762 aff Delete type=2 #71

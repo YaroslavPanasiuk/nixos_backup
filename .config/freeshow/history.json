@@ -1,0 +1,3531 @@
+{
+	"undo": [
+		{
+			"id": "UPDATE",
+			"location": {
+				"page": "show",
+				"id": "project"
+			},
+			"oldData": {
+				"id": "7674c565ed7"
+			},
+			"newData": {
+				"data": {
+					"name": "25.08.24",
+					"created": 1724535533235,
+					"parent": "/",
+					"shows": [
+						{
+							"id": "744d9",
+							"type": "section",
+							"name": "Timer",
+							"notes": ""
+						},
+						{
+							"id": "44d94",
+							"type": "section",
+							"name": "",
+							"notes": ""
+						},
+						{
+							"id": "108e35ec979"
+						}
+					]
+				}
+			},
+			"time": 1724535533230
+		},
+		{
+			"id": "UPDATE",
+			"location": {
+				"page": "show",
+				"id": "project"
+			},
+			"oldData": {
+				"id": "674c565ed74"
+			},
+			"newData": {
+				"data": {
+					"name": "25.08.24",
+					"created": 1724535540941,
+					"parent": "/",
+					"shows": []
+				}
+			},
+			"time": 1724535540928
+		},
+		{
+			"id": "UPDATE",
+			"location": {
+				"page": "show",
+				"id": "project"
+			},
+			"oldData": {
+				"id": "74c565ed744"
+			},
+			"newData": {
+				"data": {
+					"name": "25.08.24",
+					"created": 1724535544849,
+					"parent": "/",
+					"shows": []
+				}
+			},
+			"time": 1724535544849
+		},
+		{
+			"id": "UPDATE",
+			"location": {
+				"page": "show",
+				"id": "project"
+			},
+			"oldData": {
+				"id": "4c565ed744d"
+			},
+			"newData": {
+				"data": {
+					"name": "25.08.24",
+					"created": 1724535545345,
+					"parent": "/",
+					"shows": []
+				}
+			},
+			"time": 1724535545345
+		},
+		{
+			"id": "UPDATE",
+			"newData": {
+				"id": "4c565ed744d"
+			},
+			"location": {
+				"page": "show",
+				"id": "project"
+			},
+			"oldData": {
+				"data": {
+					"name": "25.08.24",
+					"created": 1724535545345,
+					"parent": "/",
+					"shows": []
+				}
+			},
+			"time": 1724535554453
+		},
+		{
+			"id": "UPDATE",
+			"newData": {
+				"id": "74c565ed744"
+			},
+			"location": {
+				"page": "show",
+				"id": "project"
+			},
+			"oldData": {
+				"data": {
+					"name": "25.08.24",
+					"created": 1724535544849,
+					"parent": "/",
+					"shows": []
+				}
+			},
+			"time": 1724535562085
+		},
+		{
+			"id": "UPDATE",
+			"newData": {
+				"id": "674c565ed74"
+			},
+			"location": {
+				"page": "show",
+				"id": "project"
+			},
+			"oldData": {
+				"data": {
+					"name": "25.08.24",
+					"created": 1724535540941,
+					"parent": "/",
+					"shows": []
+				}
+			},
+			"time": 1724535564307
+		},
+		{
+			"id": "UPDATE",
+			"newData": {
+				"data": {
+					"name": "25.08.24",
+					"created": 1724535590512,
+					"parent": "/",
+					"shows": []
+				}
+			},
+			"location": {
+				"page": "show",
+				"id": "project"
+			},
+			"oldData": {
+				"id": "d744d94b99c"
+			},
+			"time": 1724535590511
+		},
+		{
+			"id": "UPDATE",
+			"newData": {
+				"id": "d744d94b99c"
+			},
+			"location": {
+				"page": "show",
+				"id": "project"
+			},
+			"oldData": {
+				"data": {
+					"name": "25.08.24",
+					"created": 1724535590512,
+					"parent": "/",
+					"shows": []
+				}
+			},
+			"time": 1724535602431
+		},
+		{
+			"id": "UPDATE",
+			"newData": {
+				"key": "shows",
+				"index": 1,
+				"data": {
+					"id": "744d9",
+					"type": "section",
+					"name": "Timer",
+					"notes": ""
+				},
+				"previousData": []
+			},
+			"oldData": {
+				"id": "7674c565ed7"
+			},
+			"location": {
+				"page": "show",
+				"id": "section"
+			},
+			"time": 1724535605779
+		},
+		{
+			"id": "UPDATE",
+			"newData": {
+				"key": "shows",
+				"index": 1,
+				"data": {
+					"id": "44d94",
+					"type": "section",
+					"name": "",
+					"notes": ""
+				},
+				"previousData": [
+					{
+						"id": "744d9",
+						"type": "section",
+						"name": "Timer",
+						"notes": ""
+					}
+				]
+			},
+			"oldData": {
+				"id": "7674c565ed7"
+			},
+			"location": {
+				"page": "show",
+				"id": "section"
+			},
+			"time": 1724535618118
+		},
+		{
+			"id": "UPDATE",
+			"newData": {
+				"data": {
+					"name": "Служіння 25.08.2024",
+					"private": false,
+					"category": "presentation",
+					"settings": {
+						"activeLayout": "4d94b99cd32",
+						"template": "default"
+					},
+					"timestamps": {
+						"created": 1354517815000,
+						"modified": 1724535828043,
+						"used": 1724535828036
+					},
+					"quickAccess": {},
+					"meta": {
+						"title": "Служіння 25.08.2024",
+						"artist": ""
+					},
+					"slides": {
+						"d94b99cd321": {
+							"group": "1",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Тож я руки здійму"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Славлю Тебе знов і знов  "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Все що я маю - це  "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Алілуя! Алілуя!   "
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"94b99cd3219": {
+							"group": "2",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"4b99cd3219b": {
+							"group": "3",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"b99cd3219ba": {
+							"group": "4",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Всі мої слова зовсім не нові  "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Тож про вдячність як я скажу Тобі?"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"99cd3219bad": {
+							"group": "5",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Взяв мої хвороби, сором мій покрив"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Ми найщасливіші люди на землі"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Бог дарує силу, Бог дарує міць"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Сам Христос в мені"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"9cd3219badb": {
+							"group": "6",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "В смиренні з серця на колінах "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Тебе молим про мир,"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "В смиренні з серця на колінах "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Тебе молим про мир."
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"cd3219badb8": {
+							"group": "7",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"d3219badb8c": {
+							"group": "8",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Я є той хто є, бо Він навіки полюбив мене"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"3219badb8c6": {
+							"group": "9",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "І я нове творіння в Христі "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "І все змінилось в житті,"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Живу бо вірю Тобі"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"219badb8c64": {
+							"group": "10",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"19badb8c648": {
+							"group": "11",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"9badb8c6480": {
+							"group": "12",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [],
+									"align": "",
+									"auto": false
+								},
+								{
+									"style": "left:50px;top:120px;width:1820px;height:840px;",
+									"lines": []
+								}
+							]
+						},
+						"badb8c6480b": {
+							"group": "13",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Я є той хто є, саме тому, що відкупив мене"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"adb8c6480b5": {
+							"group": "14",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Помилуй, помилуй, помилуй нас."
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Помилуй, помилуй."
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"db8c6480b5c": {
+							"group": "15",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"b8c6480b5c3": {
+							"group": "16",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [],
+									"align": "",
+									"auto": false
+								},
+								{
+									"style": "left:50px;top:120px;width:1820px;height:840px;",
+									"lines": []
+								}
+							]
+						},
+						"8c6480b5c34": {
+							"group": "17",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Гріх мене сліпив, Ісус, Ти очі відкрив,"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Тепер я світло в Христі,Ти мене покликав"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "В Тобі вільний я в Тобі Сильний я"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Господь є радість моя, Ти мене покликав"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"c6480b5c341": {
+							"group": "18",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"6480b5c3417": {
+							"group": "19",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"480b5c3417e": {
+							"group": "20",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Я є той хто є, бо Він навіки полюбив мене"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"80b5c3417e5": {
+							"group": "21",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"0b5c3417e5a": {
+							"group": "22",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"b5c3417e5ad": {
+							"group": "23",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"5c3417e5ad9": {
+							"group": "24",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Слав же душе чи в радості чи в журбі"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Пісню співай бо Цар Лев живе в тобі!"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Тож підведись і слав душе Господа!"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"c3417e5ad92": {
+							"group": "25",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"3417e5ad922": {
+							"group": "26",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"417e5ad9228": {
+							"group": "27",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Я безсилий був, відчував лиш сум   "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Та голос я почув - Ти мене покликав!"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "В темряві я жив, гріх мене покрив."
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Тепер я вільним став - Ти мене покликав"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"17e5ad9228d": {
+							"group": "28",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Слав же душе чи в радості чи в журбі"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Пісню співай бо Цар Лев живе в тобі!"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Тож підведись і слав душе Господа!"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"7e5ad9228d7": {
+							"group": "29",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [],
+									"align": "",
+									"auto": false
+								},
+								{
+									"style": "left:50px;top:120px;width:1820px;height:840px;",
+									"lines": []
+								}
+							]
+						},
+						"e5ad9228d77": {
+							"group": "30",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Бог за нас воює — темряву руйнує"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Світлом Cвого слова в серці в нас панує"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "В імені Ісуса наша перемога"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Слав Його ім'я, слав Його"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"5ad9228d77f": {
+							"group": "31",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Буду жити не помру "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Ім’я Ісуса піднесу "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Мене зцілив, благословив "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "І я живу"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "І я живу"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "І я живу"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"ad9228d77ff": {
+							"group": "32",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Кожну рану Ти зціли,"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Нехай же син прийде до матері."
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Сльози гіркі їх зітри,"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Батькам, які дитину втратили."
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"d9228d77ff2": {
+							"group": "33",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Благаємо Тебе – прийди!"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "І молим в Ім’я Сина Божого,"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Щоб ні один з Твоїх синів"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Не впав від наміру ворожого."
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"9228d77ff22": {
+							"group": "34",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "В тіні крил Твоїх святих"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Заховай від бід земних,"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Будь з нами, Бог, поруч завжди                            "
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"228d77ff226": {
+							"group": "35",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"28d77ff226b": {
+							"group": "36",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"8d77ff226b4": {
+							"group": "37",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "В тіні крил Твоїх святих"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Заховай від бід земних,"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Будь з нами, Бог, поруч завжди                            "
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"d77ff226b4c": {
+							"group": "38",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Я є той хто є, тому що Бог віддав життя своє"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"77ff226b4c5": {
+							"group": "39",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"7ff226b4c55": {
+							"group": "40",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"ff226b4c557": {
+							"group": "41",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Помилуй, помилуй, помилуй нас."
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Помилуй, помилуй."
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"f226b4c5575": {
+							"group": "42",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Все що можу я і що я зроблю "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Руки піднесу і Тобі вклонюсь  "
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"226b4c55751": {
+							"group": "43",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"26b4c557517": {
+							"group": "44",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Алілуя! Буду славити Господа з повного серця, в колі праведних та на згромадженні! Великі Господні діла, вони пожадані для всіх, хто їх любить! Його діло краса та величність, а правда Його пробуває навіки! Він пам'ятку чудам Своїм учинив, милостивий та щедрий Господь! Поживу дає Він для тих, хто боїться Його, заповіта Свого пам'ятає повік! Силу чинів Своїх об'явив Він народові Своєму, щоб спадщину народів їм дати. Діла рук Його правда та право, всі накази Його справедливі, вони кріпкі на вічні віки, вони зроблені вірністю і правотою! Послав Він Своєму народові визволення, заповіта Свого поставив навіки, святе та грізне Його Ймення! Початок премудрости страх перед Господом, добрий розум у тих, хто виконує це, Його слава навіки стоїть!"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Псалом 111"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"6b4c557517f": {
+							"group": "45",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"b4c557517f5": {
+							"group": "46",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Взяв мої хвороби, сором мій покрив,"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Ми найщасливіші люди на землі"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Бог дарує силу, Бог дарує міць,"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Сам Христос в мені"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"4c557517f5c": {
+							"group": "47",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"c557517f5c5": {
+							"group": "48",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Слав же душе чи в радості чи в журбі"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Пісню співай бо Цар Лев живе в тобі!"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Тож підведись і слав душе Господа!"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"557517f5c5b": {
+							"group": "49",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Тож я руки здійму"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Славлю Тебе знов і знов  "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Все що я маю - це "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Алілуя! Алілуя!  "
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"57517f5c5b3": {
+							"group": "50",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Тож я руки здійму"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Славлю Тебе знов і знов  "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Все що я маю - це "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": " Алілуя! Алілуя!   "
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"7517f5c5b30": {
+							"group": "51",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Буду жити, не помру"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Бо взяв Христос вину мою"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "І воскресіння сила тут"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "І я живу"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"517f5c5b307": {
+							"group": "52",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"17f5c5b3079": {
+							"group": "53",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"7f5c5b30793": {
+							"group": "54",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"f5c5b30793e": {
+							"group": "55",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"5c5b30793e2": {
+							"group": "56",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Я той хто є, бо Він спасіння дарував Своє"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"c5b30793e22": {
+							"group": "57",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Так мало цього"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Та що можу дати Царю?"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Лиш серце співаюче "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Алілуя! Алілуя! "
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"5b30793e228": {
+							"group": "58",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"b30793e228f": {
+							"group": "59",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Боже, дякуєм Тобі,"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Ми так дякуєм Тобі."
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Ти з нами, Бог, поруч завжди."
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"30793e228f7": {
+							"group": "60",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Бог за нас воює — темряву руйнує"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Світлом Свого слова в серці в нас панує"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "В імені Ісуса наша перемога"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Слав Його ім'я, слав Його"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"0793e228f7d": {
+							"group": "61",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"793e228f7dc": {
+							"group": "62",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Слав же душе чи в радості чи в журбі"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Пісню співай бо Цар Лев живе в тобі!"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Тож підведись і слав душе Господа!"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"93e228f7dce": {
+							"group": "63",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"3e228f7dce0": {
+							"group": "64",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Так мало цього"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Та що можу дати Царю?"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Лиш серце співаюче  "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Алілуя! Алілуя!  "
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"e228f7dce0b": {
+							"group": "65",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"228f7dce0b0": {
+							"group": "66",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"28f7dce0b09": {
+							"group": "67",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"8f7dce0b09e": {
+							"group": "68",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Я є той хто є, бо Він спасіння дарував Своє"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"f7dce0b09ee": {
+							"group": "69",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Я є той хто є, тому що Бог віддав життя своє"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"7dce0b09eee": {
+							"group": "70",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Хай сонце правди не зайде,"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "А світить нам над Україною!"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Ми віримо: війна мине,"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Народ за Господом послідує"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"dce0b09eeea": {
+							"group": "71",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Буду жити, не помру"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Бо взяв Христос вину мою"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "І воскресіння сила тут"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "І я живу"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"ce0b09eeea4": {
+							"group": "72",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Ти записав моє ім’я на Небі! "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Ти мій Бог, ти мій Бог"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Я був народжений для Тебе! "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Ти мій Бог, Ти мій Бог"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"e0b09eeea49": {
+							"group": "73",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"0b09eeea490": {
+							"group": "74",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"b09eeea490b": {
+							"group": "75",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"09eeea490ba": {
+							"group": "76",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [],
+									"align": "",
+									"auto": false
+								},
+								{
+									"style": "left:50px;top:120px;width:1820px;height:840px;",
+									"lines": []
+								}
+							]
+						},
+						"9eeea490baf": {
+							"group": "77",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Бог за нас воює на нашій стороні"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Він є переможець, Він все переміг"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Я не посоромлюсь, я не похитнусь"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Сам Ісус є тут"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"eeea490baf5": {
+							"group": "78",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "В смиренні з серця на колінах "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Тебе молим про мир."
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Помилуй нас, щоб ми не втратили "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Свій орієнтир."
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"eea490baf54": {
+							"group": "79",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Буду жити не помру "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Ім’я Ісуса піднесу "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Мене зцілив, благословив "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "І я живу"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"ea490baf545": {
+							"group": "80",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Всі мої пісні мають свій кінець  "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Нескінченний Ти Вічний Бог Творець  "
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"a490baf5456": {
+							"group": "81",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [],
+									"align": "",
+									"auto": false
+								},
+								{
+									"style": "left:50px;top:120px;width:1820px;height:840px;",
+									"lines": []
+								}
+							]
+						},
+						"490baf5456b": {
+							"group": "82",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "І я нове творіння в Христі "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "І все змінилось в житті,"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Живу бо вірю Тобі"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"90baf5456b3": {
+							"group": "83",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Ти записав моє ім’я на Небі! "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Ти мій Бог, ти мій Бог"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Я був народжений для Тебе! "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Ти мій Бог, Ти мій Бог"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"0baf5456b37": {
+							"group": "84",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Помилуй, помилуй, помилуй нас."
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Помилуй, помилуй."
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"baf5456b377": {
+							"group": "85",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"af5456b377a": {
+							"group": "86",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Слав же душе чи в радості чи в журбі"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Пісню співай бо Цар Лев живе в тобі!"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Тож підведись і слав душе Господа!"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"f5456b377a9": {
+							"group": "87",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"5456b377a94": {
+							"group": "88",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"456b377a940": {
+							"group": "89",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Кожну рану Ти зціли,"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Нехай же син прийде до матері!"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Сльози гіркі їх зітри,"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Батькам, які дитину втратили."
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"56b377a940d": {
+							"group": "90",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"6b377a940dd": {
+							"group": "91",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"b377a940dd0": {
+							"group": "92",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [],
+									"align": "",
+									"auto": false
+								},
+								{
+									"style": "left:50px;top:120px;width:1820px;height:840px;",
+									"lines": []
+								}
+							]
+						},
+						"377a940dd04": {
+							"group": "93",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [],
+									"align": "",
+									"auto": false
+								},
+								{
+									"style": "left:50px;top:120px;width:1820px;height:840px;",
+									"lines": []
+								}
+							]
+						},
+						"77a940dd04d": {
+							"group": "94",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Буду жити, не помру"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Бо взяв Христос вину мою"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "І воскресіння сила тут"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "І я живу"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"7a940dd04d0": {
+							"group": "95",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Я є той хто є, саме тому, що відкупив мене"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"a940dd04d0c": {
+							"group": "96",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Так мало цього"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Та що можу дати Царю?"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Лиш серце співаюче "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Алілуя! Алілуя!"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"940dd04d0c1": {
+							"group": "97",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [],
+									"align": "",
+									"auto": false
+								},
+								{
+									"style": "left:50px;top:120px;width:1820px;height:840px;",
+									"lines": []
+								}
+							]
+						},
+						"40dd04d0c10": {
+							"group": "98",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"0dd04d0c108": {
+							"group": "99",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Ти записав моє ім’я на Небі! "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Ти мій Бог, ти мій Бог"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Я був народжений для Тебе! "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Ти мій Бог, Ти мій Бог"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"dd04d0c108e": {
+							"group": "100",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Хай сонце правди не зайде,"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "А світить нам над Україною."
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Ми віримо: війна мине,"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Народ за Господом послідує."
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"d04d0c108e3": {
+							"group": "101",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Бог за нас воює — темряву руйнує"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Світлом Свого слова в серці в нас панує"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "В імені Ісуса наша перемога"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Слав Його ім'я, слав Його"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"04d0c108e35": {
+							"group": "102",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Ти записав моє ім’я на Небі! "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Ти мій Бог, ти мій Бог"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Я був народжений для Тебе! "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Ти мій Бог, Ти мій Бог"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"4d0c108e35e": {
+							"group": "103",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Хай сонце правди не зайде,"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "А світить нам над Україною."
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Ми віримо: війна мине,"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Народ за Господом послідує."
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						},
+						"d0c108e35ec": {
+							"group": "104",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"0c108e35ec9": {
+							"group": "105",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": []
+						},
+						"c108e35ec97": {
+							"group": "106",
+							"color": null,
+							"settings": {},
+							"notes": "",
+							"items": [
+								{
+									"style": "top:120px;left:50px;height:840px;width:1820px;",
+									"lines": [
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Ти записав моє ім’я на Небі! "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Ти мій Бог, ти мій Бог"
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Я був народжений для Тебе! "
+												}
+											]
+										},
+										{
+											"align": "",
+											"text": [
+												{
+													"style": "font-size: 100px;",
+													"value": "Ти мій Бог, Ти мій Бог"
+												}
+											]
+										}
+									],
+									"align": "",
+									"auto": false
+								}
+							]
+						}
+					},
+					"layouts": {
+						"4d94b99cd32": {
+							"name": "Default",
+							"notes": "",
+							"slides": [
+								{
+									"id": "d94b99cd321"
+								},
+								{
+									"id": "94b99cd3219"
+								},
+								{
+									"id": "4b99cd3219b"
+								},
+								{
+									"id": "b99cd3219ba"
+								},
+								{
+									"id": "99cd3219bad"
+								},
+								{
+									"id": "9cd3219badb"
+								},
+								{
+									"id": "cd3219badb8"
+								},
+								{
+									"id": "d3219badb8c"
+								},
+								{
+									"id": "3219badb8c6"
+								},
+								{
+									"id": "219badb8c64"
+								},
+								{
+									"id": "19badb8c648"
+								},
+								{
+									"id": "9badb8c6480"
+								},
+								{
+									"id": "badb8c6480b"
+								},
+								{
+									"id": "adb8c6480b5"
+								},
+								{
+									"id": "db8c6480b5c"
+								},
+								{
+									"id": "b8c6480b5c3"
+								},
+								{
+									"id": "8c6480b5c34"
+								},
+								{
+									"id": "c6480b5c341"
+								},
+								{
+									"id": "6480b5c3417"
+								},
+								{
+									"id": "480b5c3417e"
+								},
+								{
+									"id": "80b5c3417e5"
+								},
+								{
+									"id": "0b5c3417e5a"
+								},
+								{
+									"id": "b5c3417e5ad"
+								},
+								{
+									"id": "5c3417e5ad9"
+								},
+								{
+									"id": "c3417e5ad92"
+								},
+								{
+									"id": "3417e5ad922"
+								},
+								{
+									"id": "417e5ad9228"
+								},
+								{
+									"id": "17e5ad9228d"
+								},
+								{
+									"id": "7e5ad9228d7"
+								},
+								{
+									"id": "e5ad9228d77"
+								},
+								{
+									"id": "5ad9228d77f"
+								},
+								{
+									"id": "ad9228d77ff"
+								},
+								{
+									"id": "d9228d77ff2"
+								},
+								{
+									"id": "9228d77ff22"
+								},
+								{
+									"id": "228d77ff226"
+								},
+								{
+									"id": "28d77ff226b"
+								},
+								{
+									"id": "8d77ff226b4"
+								},
+								{
+									"id": "d77ff226b4c"
+								},
+								{
+									"id": "77ff226b4c5"
+								},
+								{
+									"id": "7ff226b4c55"
+								},
+								{
+									"id": "ff226b4c557"
+								},
+								{
+									"id": "f226b4c5575"
+								},
+								{
+									"id": "226b4c55751"
+								},
+								{
+									"id": "26b4c557517"
+								},
+								{
+									"id": "6b4c557517f"
+								},
+								{
+									"id": "b4c557517f5"
+								},
+								{
+									"id": "4c557517f5c"
+								},
+								{
+									"id": "c557517f5c5"
+								},
+								{
+									"id": "557517f5c5b"
+								},
+								{
+									"id": "57517f5c5b3"
+								},
+								{
+									"id": "7517f5c5b30"
+								},
+								{
+									"id": "517f5c5b307"
+								},
+								{
+									"id": "17f5c5b3079"
+								},
+								{
+									"id": "7f5c5b30793"
+								},
+								{
+									"id": "f5c5b30793e"
+								},
+								{
+									"id": "5c5b30793e2"
+								},
+								{
+									"id": "c5b30793e22"
+								},
+								{
+									"id": "5b30793e228"
+								},
+								{
+									"id": "b30793e228f"
+								},
+								{
+									"id": "30793e228f7"
+								},
+								{
+									"id": "0793e228f7d"
+								},
+								{
+									"id": "793e228f7dc"
+								},
+								{
+									"id": "93e228f7dce"
+								},
+								{
+									"id": "3e228f7dce0"
+								},
+								{
+									"id": "e228f7dce0b"
+								},
+								{
+									"id": "228f7dce0b0"
+								},
+								{
+									"id": "28f7dce0b09"
+								},
+								{
+									"id": "8f7dce0b09e"
+								},
+								{
+									"id": "f7dce0b09ee"
+								},
+								{
+									"id": "7dce0b09eee"
+								},
+								{
+									"id": "dce0b09eeea"
+								},
+								{
+									"id": "ce0b09eeea4"
+								},
+								{
+									"id": "e0b09eeea49"
+								},
+								{
+									"id": "0b09eeea490"
+								},
+								{
+									"id": "b09eeea490b"
+								},
+								{
+									"id": "09eeea490ba"
+								},
+								{
+									"id": "9eeea490baf"
+								},
+								{
+									"id": "eeea490baf5"
+								},
+								{
+									"id": "eea490baf54"
+								},
+								{
+									"id": "ea490baf545"
+								},
+								{
+									"id": "a490baf5456"
+								},
+								{
+									"id": "490baf5456b"
+								},
+								{
+									"id": "90baf5456b3"
+								},
+								{
+									"id": "0baf5456b37"
+								},
+								{
+									"id": "baf5456b377"
+								},
+								{
+									"id": "af5456b377a"
+								},
+								{
+									"id": "f5456b377a9"
+								},
+								{
+									"id": "5456b377a94"
+								},
+								{
+									"id": "456b377a940"
+								},
+								{
+									"id": "56b377a940d"
+								},
+								{
+									"id": "6b377a940dd"
+								},
+								{
+									"id": "b377a940dd0"
+								},
+								{
+									"id": "377a940dd04"
+								},
+								{
+									"id": "77a940dd04d"
+								},
+								{
+									"id": "7a940dd04d0"
+								},
+								{
+									"id": "a940dd04d0c"
+								},
+								{
+									"id": "940dd04d0c1"
+								},
+								{
+									"id": "40dd04d0c10"
+								},
+								{
+									"id": "0dd04d0c108"
+								},
+								{
+									"id": "dd04d0c108e"
+								},
+								{
+									"id": "d04d0c108e3"
+								},
+								{
+									"id": "04d0c108e35"
+								},
+								{
+									"id": "4d0c108e35e"
+								},
+								{
+									"id": "d0c108e35ec"
+								},
+								{
+									"id": "0c108e35ec9"
+								},
+								{
+									"id": "c108e35ec97"
+								}
+							]
+						}
+					},
+					"media": {}
+				},
+				"remember": {
+					"project": "7674c565ed7"
+				}
+			},
+			"oldData": {
+				"id": "108e35ec979"
+			},
+			"location": {
+				"page": "show",
+				"id": "show"
+			},
+			"time": 1724535773497
+		}
+	],
+	"redo": []
+}

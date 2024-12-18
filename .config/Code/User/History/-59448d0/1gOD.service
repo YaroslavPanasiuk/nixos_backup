@@ -1,0 +1,7 @@
+[Unit]
+Description=Battery Level Checker
+
+[Service]
+Restart=always
+RestartSec=600
+ExecStart=/home/yaros/Documents/battery_reset.sh

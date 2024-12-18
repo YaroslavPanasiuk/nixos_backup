@@ -1,0 +1,30 @@
+2024/11/11-22:09:35.483 bcc Reusing MANIFEST /home/yaros/.config/thorium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/11-22:09:35.484 bcc Recovering log #240
+2024/11/11-22:09:35.484 bcc Reusing old log /home/yaros/.config/thorium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000240.log 
+2024/11/11-22:09:51.248 bcc Level-0 table #255: started
+2024/11/11-22:09:51.284 bcc Level-0 table #255: 1402833 bytes OK
+2024/11/11-22:09:51.290 bcc Delete type=0 #240
+2024/11/11-22:09:51.296 bcc Compacting 1@1 + 8@2 files
+2024/11/11-22:09:51.359 bcc Generated table #256@1: 7780 keys, 2134636 bytes
+2024/11/11-22:09:51.413 bcc Generated table #257@1: 2612 keys, 2123363 bytes
+2024/11/11-22:09:51.466 bcc Generated table #258@1: 2190 keys, 2125824 bytes
+2024/11/11-22:09:51.484 bcc Level-0 table #261: started
+2024/11/11-22:09:51.519 bcc Level-0 table #261: 1629242 bytes OK
+2024/11/11-22:09:51.527 bcc Delete type=0 #254
+2024/11/11-22:09:51.562 bcc Generated table #259@1: 3271 keys, 2124673 bytes
+2024/11/11-22:09:51.618 bcc Generated table #262@1: 2096 keys, 2121572 bytes
+2024/11/11-22:09:51.676 bcc Generated table #263@1: 2372 keys, 2130051 bytes
+2024/11/11-22:09:51.730 bcc Generated table #264@1: 2402 keys, 2120136 bytes
+2024/11/11-22:09:51.801 bcc Generated table #265@1: 19785 keys, 1998208 bytes
+2024/11/11-22:09:51.801 bcc Compacted 1@1 + 8@2 files => 16878463 bytes
+2024/11/11-22:09:51.806 bcc compacted to: files[ 1 0 8 0 0 0 0 ]
+2024/11/11-22:09:51.807 bcc Delete type=2 #251
+2024/11/11-22:09:51.807 bcc Delete type=2 #250
+2024/11/11-22:09:51.807 bcc Delete type=2 #247
+2024/11/11-22:09:51.807 bcc Delete type=2 #252
+2024/11/11-22:09:51.807 bcc Delete type=2 #248
+2024/11/11-22:09:51.807 bcc Delete type=2 #255
+2024/11/11-22:09:51.808 bcc Delete type=2 #249
+2024/11/11-22:09:51.808 bcc Delete type=2 #245
+2024/11/11-22:09:51.808 bcc Delete type=2 #246
+2024/11/11-22:10:24.957 bcc Moved #261 to level-1 1629242 bytes OK: files[ 0 1 8 0 0 0 0 ]

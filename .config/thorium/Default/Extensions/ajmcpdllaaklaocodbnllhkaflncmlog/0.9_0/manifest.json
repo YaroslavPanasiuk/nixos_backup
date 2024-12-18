@@ -1,0 +1,47 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "images/icon16.png",
+         "24": "images/icon24.png",
+         "32": "images/icon32.png"
+      },
+      "default_title": "Open in doqment"
+   },
+   "author": "Shiva Prasad",
+   "background": {
+      "service_worker": "scripts/mv3/service-worker.js"
+   },
+   "commands": {
+      "_execute_action": {
+         "description": "Open in doqment",
+         "suggested_key": {
+            "default": "Alt+Q",
+            "mac": "MacCtrl+Q"
+         }
+      }
+   },
+   "description": "Mozilla's HTML5 PDF Viewer with Reader-mode add-on.",
+   "homepage_url": "https://github.com/shivaprsd/doqment",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "32": "images/icon32.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuEekgKhB6MnyQ/3I0yXXA9QF7QQ+hFrOntqdN74OmOcvF6rROIjVp4yKeahTIzrIEfAonV4LU5vDKvdntN0G+9y5Sg2CA3QtARKUN/4A9y4s8xOyhOVnSP4cLZgvRPjshvEfGm/0LoAHvAjSXHrRd9WHqgHKKNNdC59iX2QnxTIzqxOo8G2SyXOlBbiUkMPBqbwCViQsEKRDuSMF/8k/sZ3EQyWsHPRZmGlojJbXoKWthxFQuHB/sGUJKS++Bj/CwmK9O7F6qfU0MZLbrf2zdWjpfr4DL71rneOTAsEMkuCNyjTeQHCOBj/lrYY/p5OclKtJz9uXLOd84HW+6Fky3QIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "102",
+   "name": "doqment PDF Reader",
+   "optional_host_permissions": [ "\u003Call_urls>" ],
+   "options_ui": {
+      "page": "pages/options.html"
+   },
+   "permissions": [ "activeTab", "contextMenus", "scripting" ],
+   "short_name": "doqment",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.9",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "pdfjs/web/viewer.html" ]
+   } ]
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/shared/Wallpapers/21[GIF].jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1e1c25",
+        "foreground": "#e3cac7",
+        "cursor": "#e3cac7"
+    },
+    "colors": {
+        "color0": "#1e1c25",
+        "color1": "#607090",
+        "color2": "#92798A",
+        "color3": "#758DAD",
+        "color4": "#799DC3",
+        "color5": "#8D95AF",
+        "color6": "#A596A4",
+        "color7": "#e3cac7",
+        "color8": "#9e8d8b",
+        "color9": "#607090",
+        "color10": "#92798A",
+        "color11": "#758DAD",
+        "color12": "#799DC3",
+        "color13": "#8D95AF",
+        "color14": "#A596A4",
+        "color15": "#e3cac7"
+    }
+}

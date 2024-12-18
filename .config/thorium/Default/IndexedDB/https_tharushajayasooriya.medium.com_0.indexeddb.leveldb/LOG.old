@@ -1,0 +1,6 @@
+2024/11/08-15:16:38.603 1634 Creating DB /home/yaros/.config/thorium/Default/IndexedDB/https_tharushajayasooriya.medium.com_0.indexeddb.leveldb since it was missing.
+2024/11/08-15:16:38.610 1634 Reusing MANIFEST /home/yaros/.config/thorium/Default/IndexedDB/https_tharushajayasooriya.medium.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/08-19:52:59.919 1635 Level-0 table #5: started
+2024/11/08-19:52:59.923 1635 Level-0 table #5: 43270 bytes OK
+2024/11/08-19:52:59.927 1635 Delete type=0 #3
+2024/11/08-19:52:59.927 1635 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

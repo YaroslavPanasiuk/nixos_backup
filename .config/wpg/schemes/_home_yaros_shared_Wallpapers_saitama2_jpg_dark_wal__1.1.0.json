@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yaros/shared/Wallpapers/saitama2.jpg",
+    "alpha": "90",
+    "special": {
+        "background": "#3a1421",
+        "foreground": "#efe6ca",
+        "cursor": "#efe6ca"
+    },
+    "colors": {
+        "color0": "#3a1421",
+        "color1": "#627A84",
+        "color2": "#5D8794",
+        "color3": "#71969F",
+        "color4": "#729BA4",
+        "color5": "#C8A98B",
+        "color6": "#ECCA9A",
+        "color7": "#efe6ca",
+        "color8": "#a7a18d",
+        "color9": "#627A84",
+        "color10": "#5D8794",
+        "color11": "#71969F",
+        "color12": "#729BA4",
+        "color13": "#C8A98B",
+        "color14": "#ECCA9A",
+        "color15": "#efe6ca"
+    }
+}

@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "test"
+version = "0.1.0"
+description = ""
+authors = ["YaroslavPanasiuk <yaroslav.panasiuk@lnu.edu.ua>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+my-script = "my_package.main:main"
